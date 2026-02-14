@@ -1,0 +1,31 @@
+<nav class="nav">
+    <div class="nav-inner container">
+        <a href="/" class="nav-logo">{{ .Site.Title }}</a>
+        <button class="nav-toggle" aria-label="Menu">☰</button>
+        <ul class="nav-links" id="nav-links">
+            {{ range .Site.Menus.main }}
+            <li><a href="{{ .URL }}" {{ if $.IsMenuCurrent "main" . }}class="active" {{ end }}>{{ .Name }}</a></li>
+            {{ end }}
+        </ul>
+    </div>
+</nav>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const toggle = document.querySelector('.nav-toggle');
+        const links = document.querySelector('.nav-links');
+
+        toggle.addEventListener('click', function () {
+            links.classList.toggle('open');
+            toggle.textContent = links.classList.contains('open') ? '✕' : '☰';
+        });
+
+        // Close menu when clicking outside
+        document.addEventListener('click', function (event) {
+            if (!toggle.contains(event.target) && !links.contains(event.target)) {
+                links.classList.remove('open');
+                toggle.textContent = '☰';
+            }
+        });
+    });
+</script>

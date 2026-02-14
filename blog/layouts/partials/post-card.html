@@ -1,0 +1,27 @@
+<article class="post-card">
+    <a href="{{ .RelPermalink }}" class="post-card-link">
+        {{ $thumbnail := .Params.thumbnail | default "/images/default-thumbnail.svg" }}
+        <div class="post-card-thumbnail">
+            <img src="{{ $thumbnail }}" alt="{{ .Title }}" loading="lazy">
+        </div>
+        <div class="post-card-body">
+            <div class="post-card-meta">
+                {{ with .Params.categories }}
+                {{ range . }}
+                <span class="post-card-category">{{ . }}</span>
+                {{ end }}
+                {{ end }}
+                <time class="post-card-date" datetime="{{ .Date.Format " 2006-01-02" }}">
+                    {{ .Date.Format "02/01/2006" }}
+                </time>
+            </div>
+            <h2 class="post-card-title">{{ .Title }}</h2>
+            <p class="post-card-summary">{{ .Params.summary }}</p>
+            {{ with .Params.lenny_episode }}
+            {{ if ne . "" }}
+            <span class="post-card-episode">💡 {{ . }}</span>
+            {{ end }}
+            {{ end }}
+        </div>
+    </a>
+</article>

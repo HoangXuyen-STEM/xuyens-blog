@@ -1,0 +1,51 @@
+{{ define "main" }}
+<article class="post-single">
+    <header class="post-header">
+        <div class="post-meta">
+            {{ with .Params.categories }}
+            {{ range . }}
+            <span class="post-category" data-category="{{ . }}">{{ . }}</span>
+            {{ end }}
+            {{ end }}
+            <time datetime="{{ .Date.Format " 2006-01-02" }}">{{ .Date.Format "02/01/2006" }}</time>
+        </div>
+
+        <h1 class="post-title">{{ .Title }}</h1>
+        <p class="post-summary">{{ .Params.summary }}</p>
+
+        {{ with .Params.lenny_episode }}
+        <div class="post-episode">
+            💡 Insight từ Lenny's Podcast <strong>{{ . }}</strong>
+        </div>
+        {{ end }}
+
+        {{ $thumbnail := .Params.thumbnail }}
+        {{ if not $thumbnail }}
+        {{ $thumbnail = .Site.Params.defaultThumbnail }}
+        {{ end }}
+        <div class="post-thumbnail">
+            <img src="{{ $thumbnail }}" alt="{{ .Title }}">
+        </div>
+    </header>
+
+    <div class="post-content">
+        {{ .Content }}
+    </div>
+
+    <footer class="post-footer">
+        {{ partial "cta-banner.html" . }}
+
+        {{ with .Params.tags }}
+        <div class="post-tags">
+            <span>Tags:</span>
+            {{ range . }}
+            <a href="/tags/{{ . | urlize }}" class="post-tag">#{{ . }}</a>
+            {{ end }}
+        </div>
+        {{ end }}
+    </footer>
+</article>
+
+{{ partial "newsletter.html" . }}
+{{ partial "related-posts.html" . }}
+{{ end }}

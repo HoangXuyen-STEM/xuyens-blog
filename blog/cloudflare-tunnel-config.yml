@@ -1,0 +1,28 @@
+# Cloudflare Tunnel Configuration Template
+# File: ~/.cloudflared/config.yml
+
+# Add this route to your existing Cloudflare Tunnel configuration
+
+ingress:
+  # Xuyen's Blog - Add this entry
+  - hostname: blog.xuyenlab.com
+    service: http://localhost:8090
+  
+  # ... your other existing services here ...
+  
+  # Catch-all rule (must be last)
+  - service: http_status:404
+
+# After adding the route, restart cloudflared:
+# sudo systemctl restart cloudflared
+
+# Or if running as a service:
+# sudo cloudflared service install
+# sudo systemctl restart cloudflared
+
+# Verify tunnel status:
+# sudo systemctl status cloudflared
+# sudo cloudflared tunnel info
+
+# Test the route:
+# curl -H "Host: blog.xuyenlab.com" http://localhost:8090

@@ -1,0 +1,85 @@
+baseURL = "https://blog.xuyenlab.com/"
+languageCode = "vi"
+title = "Xuyen's Blog"
+summaryLength = 30
+[pagination]
+  pagerSize = 10
+
+# Taxonomies
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+# Main Menu
+[menus]
+  [[menus.main]]
+    name = "Trang chủ"
+    url = "/"
+    weight = 1
+
+  [[menus.main]]
+    name = "Về tôi"
+    url = "/about/"
+    weight = 2
+
+  [[menus.main]]
+    name = "AI & Công nghệ"
+    url = "/categories/ai-technology/"
+    weight = 3
+
+  [[menus.main]]
+    name = "Mindset & Tư duy"
+    url = "/categories/mindset/"
+    weight = 4
+
+  [[menus.main]]
+    name = "Framework & Chiến lược"
+    url = "/categories/framework/"
+    weight = 5
+
+  [[menus.main]]
+    name = "Career & Sự nghiệp"
+    url = "/categories/career/"
+    weight = 6
+
+  [[menus.main]]
+    name = "☕ Eakar Coffee"
+    url = "/eakar-coffee/"
+    weight = 7
+
+  [[menus.main]]
+    name = "🎓 Khóa học"
+    url = "/khoa-hoc/"
+    weight = 8
+
+# Site Parameters
+[params]
+  description = "Việt hóa insight từ Lenny's Podcast — Giúp domain expert bắt kịp thời đại AI"
+  author = "Xuyen"
+  defaultThumbnail = "/images/default-thumbnail.jpg"
+
+  # CTA Links
+  [params.cta]
+    [params.cta.coffee]
+      title = "☕ Thưởng thức Eakar Coffee"
+      description = "Cà phê robusta premium từ Tây Nguyên — rang xay thủ công"
+      url = "/eakar-coffee/"
+
+    [params.cta.course]
+      title = "📚 Khóa học AI & Vibe-Coding"
+      description = "Học cách tận dụng AI trong công việc — dành cho non-tech"
+      url = "/khoa-hoc/"
+
+  # Social Links
+  [params.social]
+    facebook = "https://facebook.com/xuyen"
+    linkedin = "https://linkedin.com/in/xuyen"
+
+# Markup settings
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "monokai"
+    lineNos = false

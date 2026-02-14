@@ -1,0 +1,37 @@
+{
+    "meta": {
+        "schema_version": "1.1.0",
+        "awf_version": "4.0.0"
+    },
+    "project": {
+        "name": "Xuyen's Blog",
+        "type": "Hugo Blog",
+        "status": "In Development (Phase 4 complete)",
+        "description": "Việt hóa insight từ Lenny's Podcast cho domain experts."
+    },
+    "tech_stack": {
+        "generator": "Hugo v0.145.0 (extended)",
+        "styling": "Vanilla CSS",
+        "js": "Frontend JS for mobile menu",
+        "external": "Cập nhật sau (Newsletter services)"
+    },
+    "content_structure": {
+        "categories": [
+            "ai-technology",
+            "mindset",
+            "framework",
+            "career"
+        ],
+        "post_params": [
+            "cta_type (coffee/course)",
+            "lenny_episode",
+            "thumbnail",
+            "status (published/draft)"
+        ]
+    },
+    "design_system": {
+        "font": "Inter (Google Fonts)",
+        "primary_color": "#2563eb",
+        "theme": "Minimalist, tinystakeholders.com-inspired"
+    }
+}

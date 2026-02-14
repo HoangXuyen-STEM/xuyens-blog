@@ -1,0 +1,19 @@
+{{ define "main" }}
+<section class="taxonomy-page container">
+    <header class="taxonomy-header">
+        <span class="taxonomy-label">Danh mục / Thẻ:</span>
+        <h1 class="taxonomy-title">{{ .Title }}</h1>
+        {{ with .Description }}
+        <p class="taxonomy-description">{{ . }}</p>
+        {{ end }}
+    </header>
+
+    <div class="posts-list">
+        {{ range .Paginator.Pages }}
+        {{ partial "post-card.html" . }}
+        {{ end }}
+    </div>
+
+    {{ partial "pagination.html" . }}
+</section>
+{{ end }}

@@ -1,0 +1,49 @@
+{
+    "updated_at": "2026-02-13T10:10:00Z",
+    "working_on": {
+        "phase": 4,
+        "status": "completed",
+        "last_feature": "Secondary Pages & Navigation"
+    },
+    "pending_tasks": [
+        {
+            "phase": 5,
+            "name": "Newsletter + Polish",
+            "priority": "high"
+        },
+        {
+            "phase": 6,
+            "name": "Content Pipeline",
+            "priority": "medium"
+        },
+        {
+            "phase": 7,
+            "name": "Deploy",
+            "priority": "high"
+        }
+    ],
+    "recent_changes": [
+        {
+            "desc": "Implemented single post template with dual CTA and related grid",
+            "phase": 3
+        },
+        {
+            "desc": "Added About page, category pages, and 404 page",
+            "phase": 4
+        },
+        {
+            "desc": "Responsive navigation with hamburger menu",
+            "phase": 4
+        }
+    ],
+    "decisions_made": [
+        {
+            "decision": "Keep dummy posts for testing related posts logic",
+            "reason": "Functionality demonstration"
+        },
+        {
+            "decision": "Use vanilla JS embedded in partial for mobile menu",
+            "reason": "No build deps needed"
+        }
+    ]
+}

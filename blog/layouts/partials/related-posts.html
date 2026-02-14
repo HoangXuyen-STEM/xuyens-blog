@@ -1,0 +1,28 @@
+{{ $related := .Site.RegularPages.Related . | first 3 }}
+{{ if eq (len $related) 0 }}
+{{ $related = where .Site.RegularPages "Type" "posts" | first 3 }}
+{{ end }}
+
+{{ if $related }}
+<section class="related-posts">
+    <div class="container">
+        <h3>Bài viết liên quan</h3>
+        <div class="related-grid">
+            {{ range $related }}
+            <a href="{{ .RelPermalink }}" class="related-card">
+                <div class="related-image">
+                    {{ $thumb := .Params.thumbnail | default "/images/default-thumbnail.svg" }}
+                    <img src="{{ $thumb }}" alt="{{ .Title }}" loading="lazy">
+                </div>
+                <div class="related-body">
+                    {{ with .Params.categories }}
+                    <span class="related-category" data-category="{{ index . 0 }}">{{ index . 0 }}</span>
+                    {{ end }}
+                    <h4 class="related-heading">{{ .Title }}</h4>
+                </div>
+            </a>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}

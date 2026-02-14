@@ -1,0 +1,11 @@
+<footer class="footer">
+    <div class="container">
+        <p>&copy; {{ now.Year }} {{ .Site.Title }}. All rights reserved.</p>
+        {{ with .Site.Params.social }}
+        <div class="footer-social">
+            {{ with .facebook }}<a href="{{ . }}" target="_blank" rel="noopener">Facebook</a>{{ end }}
+            {{ with .linkedin }}<a href="{{ . }}" target="_blank" rel="noopener">LinkedIn</a>{{ end }}
+        </div>
+        {{ end }}
+    </div>
+</footer>

@@ -1,0 +1,9 @@
+public/
+resources/
+.hugo_build.lock
+.DS_Store
+node_modules/
+.env
+subscribers.json
+sync/
+migrate_to_notion.py
