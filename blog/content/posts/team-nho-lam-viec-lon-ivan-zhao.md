@@ -4,7 +4,7 @@ slug: "team-nho-lam-viec-lon-ivan-zhao"
 summary: "Bài học từ Ivan Zhao (Notion): Đừng đợi đủ người mới làm. Hãy tận dụng AI để 'stay small' nhưng vẫn tạo ra tác động khổng lồ."
 categories: ["ai-technology"]
 tags: ["AI", "productivity", "Startup", "Notion", "Lean"]
-thumbnail: "/images/default-thumbnail.jpg"
+thumbnail: "/images/team-nho-lam-viec-lon-ivan-zhao.jpg"
 lenny_episode: "Ivan Zhao — Notion's lost years"
 cta_type: "coffee"
 date: 2026-02-18

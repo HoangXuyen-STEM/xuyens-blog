@@ -4,7 +4,7 @@ slug: "lam-sep-cua-ai-julie-zhuo"
 summary: "AI không phải là công cụ thay thế bạn. Nó là 'thực tập sinh' cần bạn dẫn dắt. Học cách quản lý AI như quản lý nhân viên từ Julie Zhuo."
 categories: ["ai-technology"]
 tags: ["AI Management", "leadership", "Future of Work", "Julie Zhuo"]
-thumbnail: "/images/default-thumbnail.jpg"
+thumbnail: "/images/lam-sep-cua-ai-julie-zhuo.jpg"
 lenny_episode: "Julie Zhuo — From managing people to managing AI"
 cta_type: "course"
 date: 2026-02-21

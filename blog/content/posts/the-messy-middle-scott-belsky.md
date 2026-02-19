@@ -4,7 +4,7 @@ slug: "the-messy-middle-scott-belsky"
 summary: "Cảm thấy bế tắc với dự án hiện tại? Chào mừng bạn đến với 'The Messy Middle'. Scott Belsky sẽ chỉ cho bạn cách kiên trì khi mọi thứ trở nên hỗn loạn."
 categories: ["mindset"]
 tags: ["mindset", "Growth", "Resilience", "Startup"]
-thumbnail: "/images/default-thumbnail.jpg"
+thumbnail: "/images/the-messy-middle-scott-belsky.jpg"
 lenny_episode: "Scott Belsky — The Messy Middle"
 cta_type: "course"
 date: 2026-02-19

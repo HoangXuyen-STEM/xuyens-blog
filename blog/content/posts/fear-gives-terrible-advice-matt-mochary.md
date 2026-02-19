@@ -4,7 +4,7 @@ slug: "fear-gives-terrible-advice-matt-mochary"
 summary: "Bạn chần chừ không dám làm vì sợ thất bại? Matt Mochary cảnh báo: 'Nỗi sợ đưa ra những lời khuyên tồi tệ nhất'. Hãy học cách phớt lờ nó."
 categories: ["mindset"]
 tags: ["Fear Setting", "mindset", "Comfort Zone", "Matt Mochary"]
-thumbnail: "/images/default-thumbnail.jpg"
+thumbnail: "/images/fear-gives-terrible-advice-matt-mochary.jpg"
 lenny_episode: "Matt Mochary — Are your fears giving you terrible advice?"
 cta_type: "coffee"
 date: 2026-02-22
