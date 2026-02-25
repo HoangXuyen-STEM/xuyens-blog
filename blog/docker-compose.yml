@@ -6,6 +6,7 @@ services:
     container_name: xuyens-blog
     restart: unless-stopped
     ports:
+      - "8090:80"
       - "2368:80"
     volumes:
       - ./public:/usr/share/nginx/html:ro

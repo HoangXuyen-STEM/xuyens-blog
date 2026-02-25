@@ -41,6 +41,7 @@ docker logs --tail 10 xuyens-blog
 echo ""
 echo "✅ Deployment complete!"
 echo "🌐 Local: http://localhost:2368"
+echo "🌐 Tunnel target: http://localhost:8090"
 echo "🌐 Production: https://blog.xuyenlab.com"
 echo ""
 echo "💡 To view logs: docker logs -f xuyens-blog"
