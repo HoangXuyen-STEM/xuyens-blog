@@ -4,7 +4,7 @@ slug: "bat-dau-sau-40-khong-phai-bat-loi"
 summary: "Melanie Perkins bị từ chối 100 lần trước khi xây Canva 42 tỷ đô. Bắt đầu muộn không phải vấn đề — không bắt đầu mới là vấn đề."
 categories: ["mindset"]
 tags: ["late-starter", "mindset", "career-change"]
-thumbnail: "/images/default-thumbnail.jpg"
+thumbnail: "/images/bat-dau-sau-40-khong-phai-bat-loi.jpg"
 lenny_episode: "Melanie Perkins — She turned 100+ rejections into a $42B company"
 cta_type: "coffee"
 date: 2026-03-20

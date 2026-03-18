@@ -4,7 +4,7 @@ slug: "thay-giao-hoa-biet-marketing-biet-ai-biet-ca-phe"
 summary: "Bạn không cần giỏi nhất ở mỗi lĩnh vực. Bạn chỉ cần tổ hợp DUY NHẤT — và dám kết nối chúng lại."
 categories: ["career"]
 tags: ["multi-domain", "career", "generalist"]
-thumbnail: "/images/default-thumbnail.jpg"
+thumbnail: "/images/thay-giao-hoa-biet-marketing-biet-ai-biet-ca-phe.jpg"
 lenny_episode: "N/A — bài từ trải nghiệm cá nhân"
 cta_type: "coffee"
 date: 2026-03-24

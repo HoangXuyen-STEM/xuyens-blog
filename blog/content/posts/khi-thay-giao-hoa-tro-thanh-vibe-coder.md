@@ -4,7 +4,7 @@ slug: "khi-thay-giao-hoa-tro-thanh-vibe-coder"
 summary: "Bạn không cần biết code để tạo sản phẩm. Bạn chỉ cần biết VẤN ĐỀ — và AI sẽ giúp bạn giải quyết nó."
 categories: ["ai-technology"]
 tags: ["ai-tools", "no-code", "domain-expert"]
-thumbnail: "/images/default-thumbnail.jpg"
+thumbnail: "/images/khi-thay-giao-hoa-tro-thanh-vibe-coder.jpg"
 lenny_episode: "Amjad Masad — Behind the product: Replit"
 cta_type: "course"
 date: 2026-03-19

@@ -4,7 +4,7 @@ slug: "30-phut-moi-ngay-365-ngay-chuyen-gia"
 summary: "Không cần 4 năm đại học. Cần 30 phút mỗi sáng và sự kiên nhẫn không bỏ cuộc. Micro-learning là cách domain expert học thêm kỹ năng mới."
 categories: ["framework"]
 tags: ["micro-learning", "habits", "compound-effect"]
-thumbnail: "/images/default-thumbnail.jpg"
+thumbnail: "/images/30-phut-moi-ngay-365-ngay-chuyen-gia.jpg"
 lenny_episode: "Farhan Thawar — How Shopify builds a high-intensity culture"
 cta_type: "coffee"
 date: 2026-03-22

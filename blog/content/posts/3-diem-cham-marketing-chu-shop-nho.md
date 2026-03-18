@@ -4,7 +4,7 @@ slug: "3-diem-cham-marketing-chu-shop-nho"
 summary: "Truyền thông, sản phẩm, hậu mãi — ba lần khách 'gặp' bạn. Nếu không nhất quán, họ lặng lẽ đi mà không nói lý do."
 categories: ["marketing"]
 tags: ["marketing", "branding", "small-business"]
-thumbnail: "/images/default-thumbnail.jpg"
+thumbnail: "/images/3-diem-cham-marketing-chu-shop-nho.jpg"
 lenny_episode: "N/A — bài từ trải nghiệm cá nhân"
 cta_type: "course"
 date: 2026-03-21

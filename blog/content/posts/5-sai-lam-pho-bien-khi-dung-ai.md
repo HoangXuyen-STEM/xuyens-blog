@@ -4,7 +4,7 @@ slug: "5-sai-lam-pho-bien-khi-dung-ai"
 summary: "Mọi người nghĩ giỏi AI là giỏi prompt. Thật ra giỏi AI là giỏi đặt CÂU HỎI — và biết khi nào KHÔNG dùng AI."
 categories: ["ai-technology"]
 tags: ["ai-mistakes", "ai-tools", "productivity"]
-thumbnail: "/images/default-thumbnail.jpg"
+thumbnail: "/images/5-sai-lam-pho-bien-khi-dung-ai.jpg"
 lenny_episode: "Michael Truell — The rise of Cursor"
 cta_type: "course"
 date: 2026-03-23
