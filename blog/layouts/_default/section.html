@@ -1,22 +1,37 @@
 {{ define "main" }}
+{{ $pages := .RegularPages }}
+{{ $label := "Chuyên mục:" }}
+{{ $title := .Title }}
+{{ $description := .Description }}
+
+{{ if eq .Section "posts" }}
+{{ $pages = where .RegularPages "Params.status" "published" }}
+{{ $label = "Kho nội dung:" }}
+{{ $title = "Bài viết mới nhất" }}
+{{ $description = "Những bài viết về AI, giáo dục, công nghệ và cách làm việc mới dành cho domain expert muốn bắt kịp thời đại AI." }}
+{{ end }}
+
+{{ $paginator := .Paginate ($pages.ByDate.Reverse) }}
+
 <section class="section-page container">
     <header class="taxonomy-header">
-        <span class="taxonomy-label">Chuyên mục:</span>
-        <h1 class="taxonomy-title">{{ .Title }}</h1>
-        {{ with .Description }}
+        <span class="taxonomy-label">{{ $label }}</span>
+        <h1 class="taxonomy-title">{{ $title }}</h1>
+        {{ with $description }}
         <p class="taxonomy-description">{{ . }}</p>
         {{ end }}
     </header>
 
+    {{ if gt (len $paginator.Pages) 0 }}
     <div class="posts-list">
-        {{ $pages := .RegularPages }}
-        {{ if eq .Section "posts" }}
-        {{ $pages = where .RegularPages "Params.status" "published" }}
-        {{ end }}
-
-        {{ range $pages.ByDate.Reverse }}
+        {{ range $paginator.Pages }}
         {{ partial "post-card.html" . }}
         {{ end }}
     </div>
+
+    {{ partial "pagination.html" . }}
+    {{ else }}
+    <p class="no-posts">Chưa có bài viết nào trong mục này. Hãy quay lại sau nhé!</p>
+    {{ end }}
 </section>
 {{ end }}

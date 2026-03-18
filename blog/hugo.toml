@@ -23,34 +23,39 @@ summaryLength = 30
     weight = 2
 
   [[menus.main]]
+    name = "Bài viết"
+    url = "/posts/"
+    weight = 3
+
+  [[menus.main]]
     name = "AI & Công nghệ"
     url = "/categories/ai-technology/"
-    weight = 3
+    weight = 4
 
   [[menus.main]]
     name = "Mindset & Tư duy"
     url = "/categories/mindset/"
-    weight = 4
+    weight = 5
 
   [[menus.main]]
     name = "Framework & Chiến lược"
     url = "/categories/framework/"
-    weight = 5
+    weight = 6
 
   [[menus.main]]
     name = "Career & Sự nghiệp"
     url = "/categories/career/"
-    weight = 6
+    weight = 7
 
   [[menus.main]]
     name = "☕ Eakar Coffee"
     url = "/eakar-coffee/"
-    weight = 7
+    weight = 8
 
   [[menus.main]]
     name = "🎓 Khóa học"
     url = "/khoa-hoc/"
-    weight = 8
+    weight = 9
 
 # Site Parameters
 [params]

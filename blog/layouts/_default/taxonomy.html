@@ -1,9 +1,23 @@
 {{ define "main" }}
+{{ $label := "Danh mục:" }}
+{{ $description := .Description }}
+
+{{ if eq .Data.Plural "tags" }}
+{{ $label = "Từ khóa:" }}
+{{ if not $description }}
+{{ $description = printf "Những bài viết có cùng từ khóa \"%s\" để bạn đọc sâu hơn theo một mạch nội dung." .Title }}
+{{ end }}
+{{ else }}
+{{ if not $description }}
+{{ $description = printf "Những bài viết thuộc chủ đề \"%s\" được sắp theo thứ tự mới nhất." .Title }}
+{{ end }}
+{{ end }}
+
 <section class="taxonomy-page container">
     <header class="taxonomy-header">
-        <span class="taxonomy-label">Danh mục / Thẻ:</span>
+        <span class="taxonomy-label">{{ $label }}</span>
         <h1 class="taxonomy-title">{{ .Title }}</h1>
-        {{ with .Description }}
+        {{ with $description }}
         <p class="taxonomy-description">{{ . }}</p>
         {{ end }}
     </header>
