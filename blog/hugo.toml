@@ -54,8 +54,8 @@ summaryLength = 30
 
 # Site Parameters
 [params]
-  description = "Việt hóa insight từ Lenny's Podcast — Giúp domain expert bắt kịp thời đại AI"
-  author = "Xuyen"
+  description = "Blog về AI, giáo dục và công nghệ bởi Hoàng Xuyên — giáo viên, AI Trainer, CAIO for Educators tại Đắk Lắk."
+  author = "Hoàng Xuyên"
   defaultThumbnail = "/images/default-thumbnail.jpg"
 
   # CTA Links
