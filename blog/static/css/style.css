@@ -1083,7 +1083,8 @@ footer a:hover,
 }
 
 /* Newsletter */
-.newsletter-box {
+.newsletter-box,
+.newsletter-block {
     background: var(--color-navy);
     color: white;
     padding: 2rem;
@@ -1092,12 +1093,14 @@ footer a:hover,
     text-align: center;
 }
 
-.newsletter-box h3 {
+.newsletter-box h3,
+.newsletter-block h3 {
     color: white;
     margin-top: 0;
 }
 
-.newsletter-box p {
+.newsletter-box p,
+.newsletter-block p {
     color: rgba(255, 255, 255, 0.85);
     font-size: 0.95rem;
 }
@@ -1139,4 +1142,18 @@ footer a:hover,
 .newsletter-msg {
     margin-top: 0.75rem;
     font-size: 0.9rem;
+}
+
+.newsletter-message {
+    min-height: 1.2em;
+    font-size: 0.9rem;
+    margin-top: 0.5rem;
+}
+
+.newsletter-message.success {
+    color: #2d6a4f;
+}
+
+.newsletter-message.error {
+    color: #c0392b;
 }
