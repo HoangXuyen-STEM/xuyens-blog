@@ -72,6 +72,11 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/css/style.css?v=2">
+
+    {{ if not hugo.IsServer }}
+    <!-- Umami Analytics — chỉ chạy trên production -->
+    <script defer src="https://umami.xuyenlab.com/script.js" data-website-id="YOUR_WEBSITE_ID"></script>
+    {{ end }}
 </head>
 
 <body>
@@ -82,6 +87,7 @@
     </main>
 
     {{- partial "footer.html" . -}}
+    <script src="{{ "js/main.js" | relURL }}"></script>
     <script src="/js/newsletter.js"></script>
 </body>
 

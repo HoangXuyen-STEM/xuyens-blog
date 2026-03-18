@@ -1,7 +1,7 @@
 // newsletter.js — Formspree integration
 // Thay YOUR_FORM_ID bằng ID từ formspree.io
 
-const FORMSPREE_ENDPOINT = 'https://formspree.io/f/YOUR_FORM_ID';
+const FORMSPREE_ENDPOINT = 'https://formspree.io/f/mzdjyrna';
 
 document.addEventListener('DOMContentLoaded', function () {
     const forms = document.querySelectorAll('.newsletter-form');
