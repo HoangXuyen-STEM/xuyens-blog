@@ -1,0 +1,22 @@
+{{ define "main" }}
+<section class="section-page container">
+    <header class="taxonomy-header">
+        <span class="taxonomy-label">Chuyên mục:</span>
+        <h1 class="taxonomy-title">{{ .Title }}</h1>
+        {{ with .Description }}
+        <p class="taxonomy-description">{{ . }}</p>
+        {{ end }}
+    </header>
+
+    <div class="posts-list">
+        {{ $pages := .RegularPages }}
+        {{ if eq .Section "posts" }}
+        {{ $pages = where .RegularPages "Params.status" "published" }}
+        {{ end }}
+
+        {{ range $pages.ByDate.Reverse }}
+        {{ partial "post-card.html" . }}
+        {{ end }}
+    </div>
+</section>
+{{ end }}

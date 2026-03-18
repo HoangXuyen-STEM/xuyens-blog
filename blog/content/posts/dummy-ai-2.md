@@ -8,7 +8,8 @@ thumbnail: "/images/default-thumbnail.jpg"
 lenny_episode: ""
 cta_type: "coffee"
 date: 2026-02-10
-status: "published"
+status: "draft"
+draft: true
 ---
 
 Bài viết dummy 2 cho category AI Technology.
