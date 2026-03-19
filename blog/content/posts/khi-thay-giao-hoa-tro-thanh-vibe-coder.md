@@ -27,7 +27,7 @@ Amjad Masad — CEO của Replit, một nền tảng giúp ai cũng có thể t�
 
 ## Tưởng cần biết code, hóa ra cần biết... đặt câu hỏi
 
-Mình là giáo viên Hóa học. 25 năm đứng lớp ở Đắk Lắk. Mình không biết viết một dòng code nào — nghiêm túc đó, không phải khiêm tốn.
+Mình là giáo viên Hóa học. 25 năm đứng lớp ở Đắk Lắk. Mình chỉ biết một chút về code, dám đọc các file code nhưng không hiểu hết và không biết viết một dòng code nào — nghiêm túc đó, không phải khiêm tốn.
 
 Nhưng mình đã dùng AI để:
 
@@ -55,13 +55,15 @@ Mình không biết có đến mức đó không. Nhưng mình biết chắc m�
 
 Nhiều người hỏi mình: "Anh ơi, em nên học Python hay JavaScript trước?"
 
-Câu trả lời thật lòng: **Đừng học gì hết.** Hãy bắt đầu bằng vấn đề bạn muốn giải quyết.
+Câu trả lời thật lòng: Hãy bắt đầu bằng vấn đề bạn muốn giải quyết.
 
 Bạn là chuyên gia dinh dưỡng? Hãy dùng AI tạo app tính calories cho khách hàng.
 
 Bạn là thợ mộc? Hãy dùng AI tạo website showcase sản phẩm.
 
 Bạn là giáo viên? Hãy dùng AI tạo bài giảng tương tác.
+
+Song song với đó là dấn thân vào các từ ngữ liên quan đến coding, mở terminal và thực hiện các lệnh do AI cung cấp, dần dần bạn sẽ biết nhiều hơn.
 
 AI không thay bạn. AI thay CÁCH bạn làm việc. Và nếu bạn là domain expert, bạn đang ngồi trên một mỏ vàng mà chỉ cần AI giúp đào lên.
 
