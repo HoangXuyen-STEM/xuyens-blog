@@ -81,17 +81,17 @@ Tự tạo sản phẩm số — website, landing page, app — và đưa sản 
 
 Tôi không dạy "AI là gì" — bạn đã biết rồi. Tôi chỉ cho bạn **con đường mà tôi đã đi** để bạn phát triển nhanh hơn.
 
-**Buổi 1: Cơ sở — Từ "dùng AI" sang "điều khiển AI"**
+### **Buổi 1: Cơ sở — Từ "dùng AI" sang "điều khiển AI"**
 
 - Sự chuyển biến của AI: chatbot → Agent hoàn thành dự án
 - Ba mô hình cộng tác: Self-Automator, Cyborg, Centaur — bạn đang ở đâu?
 - Thực hành ngay với công việc thật của bạn
-**Buổi 2: Thực chiến — Mang công việc vào lớp**
+### **Buổi 2: Thực chiến — Mang công việc vào lớp**
 
 - Hướng dẫn 1:1: chuẩn bị dữ liệu, viết yêu cầu, để AI thực thi
 - Từ tác vụ nhỏ lẻ → hoàn thành một sản phẩm lớn trong một luồng chat
 - Áp dụng ngay, không lý thuyết suông
-**Buổi 3: Skills — Biến AI thành trợ lý riêng**
+### **Buổi 3: Skills — Biến AI thành trợ lý riêng**
 
 - Cách dùng Skills có sẵn để AI hoạt động chuyên nghiệp hơn
 - Cách tự tạo Skills — AI biết đúng phong cách, đúng ngữ cảnh của bạn
@@ -125,9 +125,9 @@ So sánh:
 
 ### Đăng ký qua Zalo
 
-Nhắn trực tiếp cho tôi. Tôi sẽ trao đổi về lịch học và hỗ trợ bạn bắt đầu.
+Nhắn trực tiếp cho tôi 0938930631. Tôi sẽ trao đổi về lịch học và hỗ trợ bạn bắt đầu.
 
-**Zalo: Đỗ Hoàng Xuyên** (nhắn "Đăng ký khóa AI")
+**Zalo: Đỗ Hoàng Xuyên** - 0938930631. (nhắn "Đăng ký khóa AI")
 
 ---
 
@@ -176,7 +176,7 @@ Vì tôi không dạy nghề mới — tôi chỉ đường. Bạn đã tài nă
 
 ### Sẵn sàng thay đổi cách làm việc?
 
-**Zalo: Đỗ Hoàng Xuyên** — nhắn "Đăng ký khóa AI" để bắt đầu.
+**Zalo: Đỗ Hoàng Xuyên** : 0938930631. — nhắn "Đăng ký khóa AI" để bắt đầu.
 
 600.000đ · 3 buổi · 3 tuần · Mentor đồng hành · Starter Kit tặng kèm
 
