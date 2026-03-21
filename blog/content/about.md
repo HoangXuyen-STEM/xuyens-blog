@@ -1,5 +1,5 @@
 ---
-title: "Về tôi"
+title: "About Me"
 slug: "about"
 type: "page"
 layout: "single"

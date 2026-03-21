@@ -1,9 +1,9 @@
 ---
-title: "Khóa học AI cho dân No-Code"
+title: "Điều khiển AI: 3 buổi thay đổi cách làm việc"
 slug: "khoa-hoc"
 type: "page"
 layout: "landing"
-description: "Khóa học AI thực chiến dành cho người đi làm — không cần biết code, chỉ cần biết tư duy"
+description: "Phá vỡ rào cản giữa biết AI và làm được với AI — 600k cho 3 buổi, mentor đồng hành, Starter Kit tặng kèm"
 ---
 
 # Bạn giỏi nghề — nhưng AI vẫn chưa giúp được gì?
