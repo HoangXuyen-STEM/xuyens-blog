@@ -68,9 +68,9 @@ Tôi bắt đầu từ zero — giống bạn. Và tôi biết chính xác chỗ
 
 Phá vỡ rào cản. Thay đổi cách tương tác với AI. Từ "dùng AI cho tác vụ nhỏ" sang "AI hoàn thành cả dự án cho bạn".
 
-**Cấp 2: Vibe-Coding** (sắp ra mắt)
+**Cấp 2: Vibe-Coding + marketing cơ bản** (sắp ra mắt)
 
-Tự tay tạo sản phẩm số bằng AI — website, app, landing page — mà không cần biết lập trình. Yêu cầu: hoàn thành Cấp 1.
+Tự tay tạo sản phẩm số bằng AI — website, app, landing page — và biết cách đưa sản phẩm đến đúng người cần. Yêu cầu: hoàn thành Cấp 1.
 
 **Cấp 3: AI cho chuyên gia** (đang phát triển)
 
@@ -128,9 +128,9 @@ Tư duy này không lạc hậu khi AI tiến bộ hơn. Ngược lại — nó 
 
 ---
 
-## Tiếp theo: Cấp 2 — Vibe-Coding (sắp ra mắt)
+## Tiếp theo: Cấp 2 — Vibe-Coding + marketing cơ bản (sắp ra mắt)
 
-Sau khi hoàn thành Cấp 1, bạn sẽ có nền tảng để tự tạo sản phẩm số bằng AI — website, landing page, ứng dụng nhỏ — mà không cần biết lập trình. Khóa Vibe-Coding sẽ mở đăng ký cho học viên đã hoàn thành khóa Điều khiển AI.
+Sau khi hoàn thành Cấp 1, bạn sẽ có nền tảng để tự tạo sản phẩm số bằng AI — website, landing page, ứng dụng nhỏ — mà không cần biết lập trình. Khóa Vibe-Coding + marketing cơ bản sẽ mở đăng ký cho học viên đã hoàn thành khóa Điều khiển AI.
 
 *Đây không phải lý thuyết — tôi đã tự build *[*blog.xuyenlab.com*](http://blog.xuyenlab.com/)*, tạo thương hiệu Eakar Coffee, và thiết kế chính khóa học này bằng vibe-coding. Khóa 2 sẽ dạy bạn làm điều tương tự.*
 
