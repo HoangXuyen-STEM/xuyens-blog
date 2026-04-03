@@ -4,7 +4,7 @@ slug: "truong-hoc-hay-nhat-the-gioi-day-gi-day-dam-sai"
 summary: "Tại sao cởi trói cho việc 'được quyền phạm sai' lại là nòng cốt để biến một tổ chức, một học sinh thoát khỏi những nỗi sợ để thực sự thăng hoa bằng sáng tạo."
 categories: ["mindset"]
 tags: ["Riverside", "sáng tạo", "dám sai", "growth mindset", "Kiran"]
-thumbnail: "/images/default-thumbnail.jpg"
+thumbnail: "/images/truong-hoc-hay-nhat-the-gioi-day-gi-day-dam-sai.svg"
 lenny_episode: "Scott Belsky — Making Ideas Happen"
 cta_type: "course"
 date: "2026-04-02"

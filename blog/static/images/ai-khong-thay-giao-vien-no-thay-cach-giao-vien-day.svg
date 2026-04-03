@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="AI teaching shift thumbnail">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b5d8a"/>
+      <stop offset="100%" stop-color="#1f2937"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g1)"/>
+  <circle cx="250" cy="180" r="90" fill="#ffffff" fill-opacity="0.16"/>
+  <circle cx="960" cy="430" r="130" fill="#ffffff" fill-opacity="0.12"/>
+  <text x="80" y="300" fill="#ffffff" font-family="Arial, sans-serif" font-size="66" font-weight="700">AI TEACHING SHIFT</text>
+  <text x="80" y="360" fill="#dbeafe" font-family="Arial, sans-serif" font-size="34">AI Khong Thay Giao Vien</text>
+</svg>

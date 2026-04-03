@@ -4,7 +4,7 @@ slug: "dung-day-kien-thuc-hay-day-cach-cam-nhan"
 summary: "Tại sao giáo dục và thiết kế sản phẩm đều cần bắt đầu từ sự thấu cảm (Empathy) thay vì tính năng (Features) hay kiến thức."
 categories: ["mindset"]
 tags: ["giáo dục", "FIDS", "empathy", "cảm nhận", "đổi mới"]
-thumbnail: "/images/default-thumbnail.jpg"
+thumbnail: "/images/dung-day-kien-thuc-hay-day-cach-cam-nhan.svg"
 lenny_episode: "Julie Zhuo — The Looking Glass"
 cta_type: "course"
 date: "2026-04-02"

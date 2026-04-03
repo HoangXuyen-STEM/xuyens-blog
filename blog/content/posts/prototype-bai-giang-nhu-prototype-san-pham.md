@@ -4,7 +4,7 @@ slug: "prototype-bai-giang-nhu-prototype-san-pham"
 summary: "Tại sao nỗ lực làm một bài giảng hoàn hảo từ ban đầu luôn thất bại, và cách sử dụng nguyên lý Design Sprint để thử nghiệm ngay bài giảng Đầu Vào."
 categories: ["framework"]
 tags: ["prototype", "bài giảng", "Sprint", "thử nghiệm", "FIDS"]
-thumbnail: "/images/default-thumbnail.jpg"
+thumbnail: "/images/prototype-bai-giang-nhu-prototype-san-pham.svg"
 lenny_episode: "Jake Knapp — Sprint / Make Time"
 cta_type: "course"
 date: "2026-04-02"
