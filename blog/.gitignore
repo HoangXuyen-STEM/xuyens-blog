@@ -4,6 +4,7 @@ resources/
 .DS_Store
 node_modules/
 .env
+sync/.env
+sync/__pycache__/
 subscribers.json
-sync/
 migrate_to_notion.py
