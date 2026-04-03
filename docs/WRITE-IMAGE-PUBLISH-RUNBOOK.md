@@ -107,15 +107,19 @@ git push origin master
 ```
 
 ### Buoc 6 - Deploy production
-Uu tien theo CI (GitHub Actions/Pages tu dong sau khi push).
+Hien tai repo **khong co GitHub Actions workflow** cho deploy. Cach deploy thuc te dang dung va da xac nhan hoat dong la build Hugo roi day len Cloudflare Pages bang Wrangler.
 
-Fallback deploy gap (direct upload bang Wrangler):
+Lenh deploy production:
 ```bash
 cd /home/hoang-xuyen/Projects/xuyens-blog/blog
 hugo --minify
 cd ..
 wrangler pages deploy blog/public --project-name xuyens-blog --branch master
 ```
+
+Luu y:
+- `git push origin master` van nen thuc hien de luu lich su thay doi len remote.
+- Khong nen gia dinh push xong la production da cap nhat; can verify domain that va neu can thi chay lenh deploy tren.
 
 ### Buoc 7 - Verify production (bat buoc)
 Kiem tra bai len domain:
@@ -142,7 +146,7 @@ Ky vong:
 - [ ] (Neu can) push Notion
 - [ ] Hugo build pass
 - [ ] Commit + push `master`
-- [ ] Deploy production (CI hoac fallback)
+- [ ] Deploy production bang Wrangler
 - [ ] Verify URL bai + verify thumbnail HTTP 200
 
 ---
@@ -166,7 +170,7 @@ Ky vong:
 ## 5) Thong tin quan trong can nho
 
 ### Duong dan chinh
-- Workspace Antigravity: `~/Projects/xuyens-blog/`
+- Workspace: `~/Projects/xuyens-blog/`
 - Blog Hugo: `~/Projects/xuyens-blog/blog/`
 - Sync scripts: `~/Projects/xuyens-blog/blog/sync/`
 - Content: `~/Projects/xuyens-blog/blog/content/posts/`
@@ -180,4 +184,4 @@ Ky vong:
 
 ### Notion
 - Database ID: `3060ed5fbd47810fa978fac0f334566a`
-- Sync statuses: `Published, Review`
+- Sync statuses: `Published,Review`
