@@ -4,7 +4,7 @@ slug: "hoc-sinh-tu-hoc-duoc-neu-ban-biet-buong"
 summary: "Tại sao trao quyền và kiểm soát ít đi lại tạo ra môi trường giáo dục và đội nhóm tự chủ vượt bậc."
 categories: ["framework"]
 tags: ["tự học", "SPEC", "buông tay", "trao quyền", "Molly Graham"]
-thumbnail: "/images/hoc-sinh-tu-hoc-duoc-neu-ban-biet-buong.svg"
+thumbnail: "/images/hoc-sinh-tu-hoc-duoc-neu-ban-biet-buong.png"
 lenny_episode: "Molly Graham — Give Away Your Legos"
 cta_type: "course"
 date: "2026-04-02"
