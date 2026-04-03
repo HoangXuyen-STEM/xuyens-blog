@@ -160,3 +160,24 @@ Ky vong:
 ### Clone may moi bi mat script Notion
 - Doi chieu lai 3 file: `blog/sync/push_to_notion.py`, `blog/sync/sync_notion_to_hugo.py`, `blog/.env.example`.
 - Tao lai `blog/.env` va dien secret.
+
+---
+
+## 5) Thong tin quan trong can nho
+
+### Duong dan chinh
+- Workspace Antigravity: `~/Projects/xuyens-blog/`
+- Blog Hugo: `~/Projects/xuyens-blog/blog/`
+- Sync scripts: `~/Projects/xuyens-blog/blog/sync/`
+- Content: `~/Projects/xuyens-blog/blog/content/posts/`
+- Images: `~/Projects/xuyens-blog/blog/static/images/`
+
+### Cloudflare Pages
+- Project name: `xuyens-blog`
+- Deploy method: `Direct Upload (wrangler pages deploy)`
+- Domain: `blog.xuyenlab.com`
+- Branch: `master`
+
+### Notion
+- Database ID: `3060ed5fbd47810fa978fac0f334566a`
+- Sync statuses: `Published, Review`
