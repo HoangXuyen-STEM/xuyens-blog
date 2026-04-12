@@ -8,7 +8,7 @@ thumbnail: "/images/rang-ca-phe-day-minh-cach-dung-ai.png"
 lenny_episode: "Edwin Chen — Obsessing over quality"
 cta_type: "coffee"
 date: "2026-04-11"
-status: "review"
+status: "published"
 ---
 
 Mẻ rang đầu tiên của mình cháy khét. 300 gam cà phê thành than. Vợ đi ngang hỏi: "Anh nấu gì mà khói vậy?"

@@ -8,7 +8,7 @@ thumbnail: "/images/tap-trung-vao-phan-xuat-sac-cua-ban.png"
 lenny_episode: "Jessica Fain (Webflow, ex-Slack) — The Art of Influence"
 cta_type: "coffee"
 date: "2026-04-11"
-status: "review"
+status: "published"
 ---
 
 Eakar Coffee của mình không có đường, không có sữa, không có topping. Chỉ cà phê đen. Có người hỏi: "Vậy ai uống?"

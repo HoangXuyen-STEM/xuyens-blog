@@ -8,7 +8,7 @@ thumbnail: "/images/spec-truoc-code-sau-giao-an-cung-vay.png"
 lenny_episode: "Simon Willison — Agentic Engineering Patterns"
 cta_type: "course"
 date: "2026-04-11"
-status: "review"
+status: "published"
 ---
 
 Hồi mới đi dạy, mình không soạn giáo án. Nghĩ trong đầu là dạy được. Giỏi mà, Hóa học là sở trường mà — cần gì giáo án.

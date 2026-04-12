@@ -8,7 +8,7 @@ thumbnail: "/images/2-nam-luyen-ai-va-mot-dem-thay-doi-moi-thu.png"
 lenny_episode: "Lazar Jovanovic — Getting Paid to Vibe Code"
 cta_type: "course"
 date: "2026-04-11"
-status: "review"
+status: "published"
 ---
 
 Tối hôm đó, ba đứa ngồi ở quán cà phê. Không phải quán sang — quán vỉa hè, ghế nhựa, gió Đắk Lắk thổi mát. Mỗi đứa một ly đen đá.

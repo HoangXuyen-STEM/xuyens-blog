@@ -8,7 +8,7 @@ thumbnail: "/images/30-giay-bloom-va-bai-hoc-ve-su-kien-nhan.png"
 lenny_episode: "Jeff Weinstein (Stripe) — Craft, metrics, customer obsession"
 cta_type: "coffee"
 date: "2026-04-11"
-status: "review"
+status: "published"
 ---
 
 Sáng nay mình đổ nước vào phin. Nước khoảng 92 độ — chưa sôi hẳn. Rồi mình ngồi chờ. 30 giây. Nhìn bột cà phê nở lên từ từ.
