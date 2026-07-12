@@ -4,3 +4,5 @@ public/
 resources/
 .hugo_build.lock
 __pycache__
+.ops-logs/
+.ops-backups/

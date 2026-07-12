@@ -1,4 +1,6 @@
 #!/bin/bash
+# LEGACY: local Docker update path.
+# Production canonical path is now ../publish_pipeline.sh → Cloudflare Pages.
 # Script để cập nhật blog trên server
 # Usage: ./update.sh
 

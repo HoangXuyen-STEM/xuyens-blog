@@ -51,7 +51,9 @@ cp -n blog/.env.example blog/.env
 Can dam bao `blog/.env` co:
 - `NOTION_API_KEY`
 - `NOTION_DATABASE_ID`
-- `NOTION_SYNC_STATUSES` (goi y: `Published,Review` khi review; `Published` khi production nghiem ngat)
+- `NOTION_SYNC_STATUSES=Published`
+
+> Safety gate: production khong bao gio sync `Review`. Xuyen phai doi trang thai Notion sang `Published` sau khi duyet.
 
 ### Buoc 1 - Viet bai markdown
 Tao bai moi:
@@ -111,15 +113,20 @@ Luu y quan trong:
 - Repo hien tai khong co GitHub Actions workflow deploy. Neu khong chay Buoc 6 thi domain co the van dang phuc vu ban build cu.
 
 ### Buoc 6 - Deploy production
-Hien tai repo **khong co GitHub Actions workflow** cho deploy. Cach deploy thuc te dang dung va da xac nhan hoat dong la build Hugo roi day len Cloudflare Pages bang Wrangler.
+Hien tai repo **khong co GitHub Actions workflow**. Duong production canonical la `publish_pipeline.sh` va Cloudflare Pages Direct Upload.
 
-Lenh deploy production:
+Lenh production chuan:
 ```bash
-cd /home/hoang-xuyen/Projects/xuyens-blog/blog
-hugo --minify
-cd ..
-wrangler pages deploy blog/public --project-name xuyens-blog --branch master
+cd /home/hoang-xuyen/Projects/xuyens-blog
+./publish_pipeline.sh
 ```
+
+Kiem tra local ma khong push/deploy:
+```bash
+./publish_pipeline.sh --dry-run --skip-sync
+```
+
+Pipeline tu dong: lock chong chay trung -> sync `Published` -> validate -> Hugo build -> commit/push neu co thay doi -> Wrangler deploy -> verify production.
 
 Luu y:
 - `git push origin master` van nen thuc hien de luu lich su thay doi len remote.

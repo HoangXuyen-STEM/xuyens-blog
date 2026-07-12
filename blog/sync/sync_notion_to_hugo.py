@@ -59,8 +59,17 @@ def notion_request(method: str, url: str, payload: dict[str, Any] | None = None)
 
 
 def sync_statuses() -> list[str]:
-    raw_value = os.environ.get("NOTION_SYNC_STATUSES", "Published,Review")
-    return [item.strip() for item in raw_value.split(",") if item.strip()]
+    """Return statuses allowed to enter the production Hugo tree.
+
+    Production defaults to Published only. Review content must never become a
+    published Hugo post unless an operator explicitly overrides the environment
+    for a non-production preview workflow.
+    """
+    raw_value = os.environ.get("NOTION_SYNC_STATUSES", "Published")
+    statuses = [item.strip() for item in raw_value.split(",") if item.strip()]
+    if not statuses:
+        raise SystemExit("NOTION_SYNC_STATUSES must contain at least one status.")
+    return statuses
 
 
 def database_filter(statuses: list[str]) -> dict[str, Any]:
@@ -188,6 +197,13 @@ def prop_thumbnail(page: dict[str, Any]) -> str:
 
 
 def write_post(page: dict[str, Any], markdown_body: str) -> Path:
+    notion_status = prop_select(page, "Status")
+    allowed_statuses = sync_statuses()
+    if notion_status not in allowed_statuses:
+        raise SystemExit(
+            f"Refusing to publish Notion status {notion_status!r}; allowed: {', '.join(allowed_statuses)}"
+        )
+
     title = prop_title(page, "Title")
     slug = prop_rich_text(page, "Slug") or title.lower().replace(" ", "-")
     summary = prop_rich_text(page, "Summary")

@@ -25,11 +25,25 @@ Repo hiện tại deploy production bằng `wrangler pages deploy`, không có G
 
 ### Quy trình publish chuẩn
 
-1. Sửa nội dung trong `blog/content/...` và `blog/static/images/...`
-2. Build local để chắc chắn Hugo render được
-3. Commit và push lên nhánh `master`
-4. Deploy `blog/public` lên Cloudflare Pages bằng Wrangler
-5. Verify production tại `https://blog.xuyenlab.com/`
+Production dùng pipeline canonical `./publish_pipeline.sh`:
+
+1. Antigravity/AI đẩy bài lên Notion với trạng thái `Review`.
+2. Xuyên duyệt và đổi trạng thái thành `Published`.
+3. Cron mỗi 15 phút gọi pipeline trong repo hiện tại.
+4. Pipeline chỉ sync `Published`, validate frontmatter/thumbnail, build Hugo, commit/push nếu có thay đổi, deploy Cloudflare Pages và verify production.
+5. Bài `Review` không được phép vào production tree.
+
+Chạy kiểm tra không deploy:
+
+```bash
+./publish_pipeline.sh --dry-run --skip-sync
+```
+
+Chạy production thủ công:
+
+```bash
+./publish_pipeline.sh
+```
 
 ### Lệnh publish cơ bản
 
@@ -75,7 +89,7 @@ cp blog/.env.example blog/.env
 
 - `NOTION_API_KEY`
 - `NOTION_DATABASE_ID`
-- `NOTION_SYNC_STATUSES` (ví dụ `Published,Review`)
+- `NOTION_SYNC_STATUSES=Published` — production safety gate; không thêm `Review`
 
 ### Lệnh hữu ích
 

@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# LEGACY: local Docker + Cloudflare Tunnel deployment.
+# Production canonical path is now ../publish_pipeline.sh → Cloudflare Pages.
+# Keep this script only for local/container troubleshooting; do not schedule it.
+
 # Xuyen's Blog - Automated Deployment Script
 # Usage: ./deploy.sh
 
