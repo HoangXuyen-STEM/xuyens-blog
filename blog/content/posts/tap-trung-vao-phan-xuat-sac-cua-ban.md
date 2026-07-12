@@ -4,13 +4,12 @@ slug: "tap-trung-vao-phan-xuat-sac-cua-ban"
 summary: "Eakar Coffee không có đường, không sữa, không topping. Chỉ cà phê đen. 'Vậy ai uống?' — 'Người không cần đường để biết cà phê ngon.'"
 categories: ["career"]
 tags: ["chuyên môn", "ảnh hưởng", "tập trung", "cà phê", "career"]
-thumbnail: "/images/tap-trung-vao-phan-xuat-sac-cua-ban.png"
+thumbnail: "/images/default-thumbnail.jpg"
 lenny_episode: "Jessica Fain (Webflow, ex-Slack) — The Art of Influence"
 cta_type: "coffee"
 date: "2026-04-11"
 status: "published"
 ---
-
 Eakar Coffee của mình không có đường, không có sữa, không có topping. Chỉ cà phê đen. Có người hỏi: "Vậy ai uống?"
 
 Mình trả lời: "Người không cần đường để biết cà phê ngon."

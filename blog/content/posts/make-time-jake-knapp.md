@@ -4,13 +4,12 @@ slug: "make-time-jake-knapp"
 summary: "Đừng đổ lỗi cho sự bận rộn. Thủ phạm thực sự là những 'Hồ bơi vô tận' (Infinity Pools). Áp dụng quy tắc Highlight để làm chủ lại một ngày của mình."
 categories: ["framework"]
 tags: ["productivity", "Time Management", "Focus", "Highligth"]
-thumbnail: "/images/make-time-jake-knapp.jpg"
+thumbnail: "/images/default-thumbnail.jpg"
 lenny_episode: "Jake Knapp & John Zeratsky — Make Time"
 cta_type: "course"
-date: 2026-02-23
+date: "2026-02-23"
 status: "published"
 ---
-
 "Dạo này em bận lắm, không có thời gian."
 
 Đó là câu cửa miệng của mình suốt 10 năm đi dạy.
@@ -134,4 +133,3 @@ Hãy sống có chủ đích (Make Time, not Find Time).
 ---
 
 *(Ngày mai: Bài cuối cùng rồi! Chúng ta sẽ nói về cách xây dựng sự nghiệp bền vững bằng tư duy "Cho đi những mảnh Lego" của Molly Graham. Đừng bỏ lỡ nhé!)*
-

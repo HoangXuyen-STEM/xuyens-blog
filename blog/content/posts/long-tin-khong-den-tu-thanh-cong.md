@@ -4,13 +4,12 @@ slug: "long-tin-khong-den-tu-thanh-cong"
 summary: "Đội STEM trường mình không đạt giải gì. Nhưng sáng nay tụi nó vẫn ngồi lắp robot. Và một ông 60 tuổi ở Airbnb dạy mình hiểu vì sao."
 categories: ["mindset"]
 tags: ["lòng tin", "kiên trì", "giáo dục", "STEM", "tuổi tác"]
-thumbnail: "/images/long-tin-khong-den-tu-thanh-cong.png"
+thumbnail: "/images/default-thumbnail.jpg"
 lenny_episode: "Chip Conley — Modern Elder Academy"
 cta_type: "course"
 date: "2026-04-11"
 status: "published"
 ---
-
 Đội STEM trường mình năm ngoái không đạt giải gì. Không một giải. Không ai nhắc tên. Trường bên cạnh ẵm cúp về, treo ảnh lên bảng tin, hiệu trưởng đăng Facebook chúc mừng rầm rầm.
 
 Trường mình — im lặng.

@@ -4,13 +4,12 @@ slug: "rang-ca-phe-day-minh-cach-dung-ai"
 summary: "Mẻ rang đầu tiên cháy khét. Nhưng bài học từ 300 gam cà phê đó lại giống hệt cách Edwin Chen xây công ty AI tỷ đô."
 categories: ["ai-technology"]
 tags: ["cà phê", "AI", "chất lượng", "kiên nhẫn", "Eakar Coffee"]
-thumbnail: "/images/rang-ca-phe-day-minh-cach-dung-ai.png"
+thumbnail: "/images/default-thumbnail.jpg"
 lenny_episode: "Edwin Chen — Obsessing over quality"
 cta_type: "coffee"
 date: "2026-04-11"
 status: "published"
 ---
-
 Mẻ rang đầu tiên của mình cháy khét. 300 gam cà phê thành than. Vợ đi ngang hỏi: "Anh nấu gì mà khói vậy?"
 
 Mình đứng nhìn đống hạt đen thui, mùi khét xộc lên mũi, tự hỏi tại sao mình lại nghĩ rang cà phê dễ. Đọc trên mạng thấy người ta rang ngon lành, tưởng chỉ cần bỏ hạt vào chảo rồi đảo đều. Kết quả — 300 gam nhân Honey Robusta biến thành củi.

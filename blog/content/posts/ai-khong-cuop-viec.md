@@ -4,13 +4,12 @@ slug: "ai-khong-cuop-viec"
 summary: "Tại sao domain expert cần học cách làm bạn với AI — thay vì sợ mất việc vì AI"
 categories: ["ai-technology"]
 tags: ["productivity", "ai-tools", "career"]
-thumbnail: "/images/ai-khong-cuop-viec.jpg"
+thumbnail: "/images/default-thumbnail.jpg"
 lenny_episode: "EP.189"
 cta_type: "coffee"
-date: 2026-02-13
+date: "2026-02-13"
 status: "published"
 ---
-
 Mỗi lần bạn mở LinkedIn, lại thấy một bài viết kiểu: *"AI sẽ thay thế 80% công việc trong 5 năm tới."*
 
 Nghe xong, bạn hít một hơi thật sâu. Rồi... tiếp tục scroll.
@@ -28,12 +27,15 @@ Hãy nghĩ thế này: bạn là một bác sĩ giỏi. 15 năm kinh nghiệm. �
 Thay vì lo lắng, hãy áp dụng framework đơn giản:
 
 1. **Xác định 80/20:** 80% công việc nào của bạn có thể AI hỗ trợ?
-2. **Thử nghiệm nhỏ:** Chọn 1 task, thử dùng AI trong 1 tuần
-3. **Đo lường:** Bạn tiết kiệm được bao nhiêu thời gian?
-4. **Scale up:** Áp dụng cho các task tiếp theo
+
+1. **Thử nghiệm nhỏ:** Chọn 1 task, thử dùng AI trong 1 tuần
+
+1. **Đo lường:** Bạn tiết kiệm được bao nhiêu thời gian?
+
+1. **Scale up:** Áp dụng cho các task tiếp theo
+
 ## Kết luận
 
 Domain expert + AI = **Super Expert.** Bạn không cần trở thành developer. Bạn chỉ cần biết cách *nói chuyện* với AI.
 
 Và đó là lý do blog này tồn tại. 🚀
-

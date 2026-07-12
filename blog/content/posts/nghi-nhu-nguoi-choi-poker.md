@@ -4,13 +4,12 @@ slug: "nghi-nhu-nguoi-choi-poker"
 summary: "Một cựu poker player chuyên nghiệp dạy mình rằng: quyết định tốt không cần nhiều thông tin. Cần đúng cách nghĩ."
 categories: ["mindset"]
 tags: ["decision-making", "mental-models", "thinking"]
-thumbnail: "/images/nghi-nhu-nguoi-choi-poker.jpg"
+thumbnail: "/images/default-thumbnail.jpg"
 lenny_episode: "Annie Duke — Thinking In Bets"
 cta_type: "coffee"
-date: 2026-02-13
+date: "2026-02-13"
 status: "published"
 ---
-
 Mình có một thói quen nữa (vâng, thêm một cái nữa): mỗi khi phải quyết định quan trọng, mình sẽ... tê liệt.
 
 Nên chuyển trường hay ở lại? Nên bắt đầu blog hay đợi thêm? Nên dùng thời gian rảnh để học AI hay học tiếng Anh?
@@ -122,4 +121,3 @@ Annie Duke nói đúng: bạn không cần biết tương lai. Bạn chỉ cần
 ---
 
 *Lần tới khi bạn bế tắc trước một quyết định, thử hỏi: "10 năm nữa, mình sẽ nghĩ gì về chuyện này?" Câu trả lời thường đơn giản hơn bạn tưởng.* ☕
-

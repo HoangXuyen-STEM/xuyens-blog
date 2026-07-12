@@ -4,13 +4,12 @@ slug: "30-phut-moi-ngay-365-ngay-chuyen-gia"
 summary: "Không cần 4 năm đại học. Cần 30 phút mỗi sáng và sự kiên nhẫn không bỏ cuộc. Micro-learning là cách domain expert học thêm kỹ năng mới."
 categories: ["framework"]
 tags: ["micro-learning", "habits", "compound-effect"]
-thumbnail: "/images/30-phut-moi-ngay-365-ngay-chuyen-gia.jpg"
+thumbnail: "/images/default-thumbnail.jpg"
 lenny_episode: "Farhan Thawar — How Shopify builds a high-intensity culture"
 cta_type: "coffee"
-date: 2026-03-22
+date: "2026-03-22"
 status: "published"
 ---
-
 Mình có thói quen kỳ lạ: mỗi sáng, trước khi làm bất cứ điều gì, mình pha một ly cà phê đen và đọc 30 phút. Không phải sách dày 500 trang — mà là một bài blog, một chapter ngắn, hoặc một podcast transcript.
 
 Đồng nghiệp hỏi: "Ông đọc ít vậy có ích gì?"
@@ -32,8 +31,11 @@ Không phải thêm giờ. Mà là thêm chất lượng cho mỗi phút.
 Mình làm một phép tính đơn giản cho học sinh:
 
 - 30 phút/ngày × 365 ngày = 182 giờ/năm
+
 - 182 giờ ≈ 23 ngày làm việc 8 tiếng
+
 - Tương đương GẦN MỘT THÁNG học full-time
+
 Một tháng nghe ít ha? Nhưng nghĩ thử — bạn có bao giờ dành trọn một tháng chỉ để học MỘT THỨ không? Hầu hết người lớn chúng ta — không. Nhưng 30 phút mỗi sáng thì ai cũng làm được.
 
 Và đây là phép màu của compound effect: năm thứ nhất bạn biết cơ bản. Năm thứ hai bạn bắt đầu thấy pattern. Năm thứ ba — bạn dạy lại được cho người khác.
@@ -67,8 +69,11 @@ Farhan cũng nói: *"Nếu bạn chọn con đường khó và nó không thành
 Thời đại AI làm micro-learning càng mạnh hơn. Vì sao?
 
 - Bạn đọc 1 bài → hỏi AI giải thích thêm → hiểu sâu gấp đôi
+
 - Bạn học 1 khái niệm → dùng AI thực hành ngay → nhanh gấp ba
+
 - Bạn gặp 1 vấn đề → AI giúp debug → tiết kiệm hàng giờ tự mò
+
 AI không thay bạn học. Nhưng AI rút ngắn khoảng cách giữa "biết" và "làm được."
 
 ## Ly cà phê thứ 365
@@ -82,4 +87,3 @@ Học cũng vậy. Ngày đầu dở. Ngày thứ 100 biết. Ngày thứ 365 �
 Bạn không cần 4 năm đại học. Bạn cần 30 phút mỗi sáng và sự kiên nhẫn không bỏ cuộc. Nếu một thầy giáo Hóa ở Đắk Lắk — người mà 25 năm chỉ biết dạy học — có thể tự học AI, tự làm blog, tự rang cà phê, tự viết marketing... thì bạn cũng làm được.
 
 Nhưng bạn phải bắt đầu từ 30 phút đầu tiên. Hôm nay.
-

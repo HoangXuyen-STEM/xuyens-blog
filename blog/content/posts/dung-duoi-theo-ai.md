@@ -4,13 +4,12 @@ slug: "dung-duoi-theo-ai"
 summary: "Bạn không cần đọc hết AI news mỗi ngày. Bạn cần hiểu người dùng của mình đang cần gì — rồi AI sẽ tự có chỗ đứng."
 categories: ["ai-technology"]
 tags: ["ai-engineering", "user-research", "productivity"]
-thumbnail: "/images/dung-duoi-theo-ai.jpg"
+thumbnail: "/images/default-thumbnail.jpg"
 lenny_episode: "Chip Huyen — AI Engineering 101"
 cta_type: "coffee"
-date: 2026-02-13
+date: "2026-02-13"
 status: "published"
 ---
-
 Mình có một thói quen xấu.
 
 Mỗi sáng, trước khi pha cà phê xong, mình đã mở 3 tab: Twitter (à, giờ gọi là X), Hacker News, và newsletter AI nào đó mà mình subscribe tuần trước rồi quên mất tên. Mình scroll. Mình đọc. Mình thấy một framework mới, một model mới, một startup vừa raise $50 triệu cho một thứ mình không hiểu.
@@ -94,4 +93,3 @@ Chip Huyen đúng. Bạn không cần theo kịp AI. Bạn cần theo kịp *ng�
 ---
 
 *Bạn đang dành bao nhiêu thời gian để "theo kịp AI" mỗi ngày? Thử giảm xuống còn 15 phút — và dùng thời gian còn lại để nói chuyện với một người bạn đang phục vụ. Rồi kể mình nghe kết quả nhé.* ☕
-

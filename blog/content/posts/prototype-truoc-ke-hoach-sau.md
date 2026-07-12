@@ -4,13 +4,12 @@ slug: "prototype-truoc-ke-hoach-sau"
 summary: "CPO của Microsoft nói: nếu bạn không prototype với AI, bạn đang làm sai. Và mình — một giáo viên — đã thử."
 categories: ["ai-technology"]
 tags: ["prototyping", "ai-product", "nlx"]
-thumbnail: "/images/prototype-truoc-ke-hoach-sau.jpg"
+thumbnail: "/images/default-thumbnail.jpg"
 lenny_episode: "Aparna Chennapragada — Microsoft CPO on AI Prototyping"
 cta_type: "coffee"
-date: 2026-02-13
+date: "2026-02-13"
 status: "published"
 ---
-
 Mình có một tật xấu khác nữa (ngoài FOMO về AI): mình *lên kế hoạch quá kỹ*.
 
 Mỗi khi có ý tưởng mới — dù là một bài giảng mới, một dự án nhỏ, hay thậm chí một bài viết blog — mình sẽ dành 3 ngày lập kế hoạch. Vẽ sơ đồ. Liệt kê rủi ro. Tìm đọc 5 bài nghiên cứu liên quan.
@@ -100,4 +99,3 @@ Mình đã có quá nhiều Google Doc như vậy rồi. 😅
 ---
 
 *Bạn đang ấp ủ ý tưởng gì mà chưa thử? Hãy dành 30 phút hôm nay, làm một phiên bản xấu nhất có thể. Rồi hỏi 1 người: "Cái này có giải quyết gì cho bạn không?" Kết quả sẽ bất ngờ lắm đấy.* ☕
-

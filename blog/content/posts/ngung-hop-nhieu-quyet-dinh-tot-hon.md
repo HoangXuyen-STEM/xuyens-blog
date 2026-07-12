@@ -4,13 +4,12 @@ slug: "ngung-hop-nhieu-quyet-dinh-tot-hon"
 summary: "Một cựu poker player tiết lộ: cuộc họp không phải nơi để khám phá ý tưởng hay quyết định. Vậy họp để làm gì?"
 categories: ["framework"]
 tags: ["meetings", "decision-making", "leadership"]
-thumbnail: "/images/ngung-hop-nhieu-quyet-dinh-tot-hon.jpg"
+thumbnail: "/images/default-thumbnail.jpg"
 lenny_episode: "Annie Duke — Discover, Discuss, Decide"
 cta_type: "coffee"
-date: 2026-02-13
+date: "2026-02-13"
 status: "published"
 ---
-
 Bạn biết cảm giác này không?
 
 Thứ Hai, 9 giờ sáng. Cuộc họp tổ bộ môn. 12 giáo viên ngồi vòng tròn. Tổ trưởng đặt vấn đề: *"Chúng ta cần quyết định lịch kiểm tra học kỳ."*
@@ -120,4 +119,3 @@ Annie Duke đúng: **ngừng nói chuyện với nhau quá nhiều trong cuộc 
 ---
 
 *Cuộc họp tiếp theo của bạn, thử gửi câu hỏi trước cho mọi người. Chỉ 1 câu thôi. Reply riêng. Rồi xem cuộc họp khác đi thế nào. Kể mình nghe nhé!* ☕
-

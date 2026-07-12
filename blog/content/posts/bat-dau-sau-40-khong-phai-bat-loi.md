@@ -4,13 +4,12 @@ slug: "bat-dau-sau-40-khong-phai-bat-loi"
 summary: "Melanie Perkins bị từ chối 100 lần trước khi xây Canva 42 tỷ đô. Bắt đầu muộn không phải vấn đề — không bắt đầu mới là vấn đề."
 categories: ["mindset"]
 tags: ["late-starter", "mindset", "career-change"]
-thumbnail: "/images/bat-dau-sau-40-khong-phai-bat-loi.jpg"
+thumbnail: "/images/default-thumbnail.jpg"
 lenny_episode: "Melanie Perkins — She turned 100+ rejections into a $42B company"
 cta_type: "coffee"
-date: 2026-03-20
+date: "2026-03-20"
 status: "published"
 ---
-
 Hồi 25 tuổi, mình nghĩ 40 tuổi là "già." Hồi 35, mình nghĩ 45 là "hết cơ hội." Giờ mình ngoài 45 — và mình chưa bao giờ bận rộn hơn, học nhiều hơn, và tạo ra nhiều thứ hơn lúc này.
 
 Nói vậy không phải khoe. Nói vậy vì mình từng tin điều ngược lại.
@@ -78,4 +77,3 @@ Viết một bài. Rang một mẻ cà phê. Prompt AI một câu. Ghi lại m�
 Bắt đầu muộn không phải vấn đề — không bắt đầu mới là vấn đề.
 
 Và nếu một thầy giáo Hóa ngoài 45 ở Đắk Lắk bắt đầu được, bạn cũng bắt đầu được. Mình tin điều đó.
-

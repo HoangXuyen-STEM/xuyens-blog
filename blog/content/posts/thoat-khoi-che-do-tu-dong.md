@@ -4,13 +4,12 @@ slug: "thoat-khoi-che-do-tu-dong"
 summary: "Một giáo sư Stanford kể về cây đèn thần — và câu hỏi khiến mình nhìn lại 25 năm dạy học."
 categories: ["mindset"]
 tags: ["autopilot", "intentional-living", "self-awareness"]
-thumbnail: "/images/thoat-khoi-che-do-tu-dong.jpg"
+thumbnail: "/images/default-thumbnail.jpg"
 lenny_episode: "Graham Weaver — How to Break Out of Autopilot"
 cta_type: "coffee"
-date: 2026-02-13
+date: "2026-02-13"
 status: "published"
 ---
-
 Mình sẽ kể bạn nghe một ngày bình thường của mình.
 
 Dậy lúc 6h. Tập thể dục (hoặc nằm thêm 15 phút rồi cảm thấy tội lỗi). Pha cà phê. Lái xe đi dạy. Chào đồng nghiệp. Dạy 3 tiết. Chấm bài. Lái xe về. Ăn tối. Xem điện thoại. Ngủ.
@@ -104,4 +103,3 @@ Và bước đầu tiên không phải là tìm ra con đường. Bước đầu
 ---
 
 *Nếu có đèn thần hôm nay, bạn sẽ ước gì? Không cần trả lời đúng. Chỉ cần trả lời thật. Viết ra giấy — hoặc gửi cho mình. Mình hứa mình sẽ đọc.* ☕
-

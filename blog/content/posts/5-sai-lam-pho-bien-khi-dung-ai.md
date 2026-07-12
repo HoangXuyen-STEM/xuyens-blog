@@ -4,13 +4,12 @@ slug: "5-sai-lam-pho-bien-khi-dung-ai"
 summary: "Mọi người nghĩ giỏi AI là giỏi prompt. Thật ra giỏi AI là giỏi đặt CÂU HỎI — và biết khi nào KHÔNG dùng AI."
 categories: ["ai-technology"]
 tags: ["ai-mistakes", "ai-tools", "productivity"]
-thumbnail: "/images/5-sai-lam-pho-bien-khi-dung-ai.jpg"
+thumbnail: "/images/default-thumbnail.jpg"
 lenny_episode: "Michael Truell — The rise of Cursor"
 cta_type: "course"
-date: 2026-03-23
+date: "2026-03-23"
 status: "published"
 ---
-
 Lần đầu tiên mình dùng AI viết bài, mình nghĩ: "Mình chỉ cần gõ 'viết cho mình bài về cà phê' là xong." Kết quả? Một bài blog 1.000 từ, hoàn hảo về mặt ngữ pháp, đầy đủ heading — và nhạt như nước lã.
 
 Mình đọc lại và nghĩ: "Ai viết cái này? Chắc chắn không phải mình."
@@ -70,13 +69,17 @@ Michael Truell chia sẻ điều bất ngờ: *"Chúng tôi hoàn toàn không n
 Từ kinh nghiệm của mình — một người "vibe-coder" không biết viết một dòng code:
 
 1. **Biết mình muốn gì** trước khi mở AI
-2. **Ra đề cụ thể** — như ra đề cho học sinh vậy
-3. **Đánh giá kết quả** bằng expertise thật — AI không biết ngành của bạn bằng bạn
-4. **Sửa, thêm giọng của mình** — 20% cuối cùng quyết định
-5. **Biết khi nào KHÔNG dùng AI** — tin nhắn cá nhân, quyết định quan trọng, sáng tạo cốt lõi
+
+1. **Ra đề cụ thể** — như ra đề cho học sinh vậy
+
+1. **Đánh giá kết quả** bằng expertise thật — AI không biết ngành của bạn bằng bạn
+
+1. **Sửa, thêm giọng của mình** — 20% cuối cùng quyết định
+
+1. **Biết khi nào KHÔNG dùng AI** — tin nhắn cá nhân, quyết định quan trọng, sáng tạo cốt lõi
+
 AI không thay mình. AI thay CÁCH mình làm việc. Và nếu bạn không thay đổi cách — AI thay bạn.
 
 Nhưng nếu bạn dùng đúng — bạn sẽ làm được những thứ mà một mình bạn không bao giờ có thể. Và đó không phải phép màu — đó là kết quả của việc đặt đúng câu hỏi.
 
 Bắt đầu bằng một câu hỏi đúng hôm nay. Kết quả sẽ làm bạn bất ngờ.
-

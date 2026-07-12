@@ -4,13 +4,12 @@ slug: "2-nam-luyen-ai-va-mot-dem-thay-doi-moi-thu"
 summary: "Ba đứa ngồi quán vỉa hè, ghế nhựa, gió Đắk Lắk. Hai năm trước không ai biết AI là gì. Giờ một đứa xây blog, một đứa làm content tự động."
 categories: ["career"]
 tags: ["AI", "hành trình", "vibe-coding", "sự nghiệp", "bạn bè"]
-thumbnail: "/images/2-nam-luyen-ai-va-mot-dem-thay-doi-moi-thu.png"
+thumbnail: "/images/default-thumbnail.jpg"
 lenny_episode: "Lazar Jovanovic — Getting Paid to Vibe Code"
 cta_type: "course"
 date: "2026-04-11"
 status: "published"
 ---
-
 Tối hôm đó, ba đứa ngồi ở quán cà phê. Không phải quán sang — quán vỉa hè, ghế nhựa, gió Đắk Lắk thổi mát. Mỗi đứa một ly đen đá.
 
 K kể hồi đầu còn viết prompt kiểu "Hãy giúp tôi viết email cho sếp." Cả ba cười ồ lên. Vì mình cũng từng vậy. Prompt đầu tiên của mình lịch sự đến mức AI có lẽ cũng ngại.

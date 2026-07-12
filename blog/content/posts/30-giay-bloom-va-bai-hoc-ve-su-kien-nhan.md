@@ -4,13 +4,12 @@ slug: "30-giay-bloom-va-bai-hoc-ve-su-kien-nhan"
 summary: "Sáng nay mình đổ nước vào phin, rồi ngồi chờ 30 giây nhìn bột cà phê nở. 30 giây đó quyết định cả ly. Giống Stripe quyết định cả sản phẩm bằng 0.5 giây loading."
 categories: ["mindset"]
 tags: ["cà phê", "bloom", "kiên nhẫn", "chi tiết", "craft"]
-thumbnail: "/images/30-giay-bloom-va-bai-hoc-ve-su-kien-nhan.png"
+thumbnail: "/images/default-thumbnail.jpg"
 lenny_episode: "Jeff Weinstein (Stripe) — Craft, metrics, customer obsession"
 cta_type: "coffee"
 date: "2026-04-11"
 status: "published"
 ---
-
 Sáng nay mình đổ nước vào phin. Nước khoảng 92 độ — chưa sôi hẳn. Rồi mình ngồi chờ. 30 giây. Nhìn bột cà phê nở lên từ từ.
 
 Vợ mình hay nói: "Anh nhìn cà phê như nhìn con ngủ vậy." Mình cười — vì đúng thật. 30 giây đó, mình không làm gì. Chỉ nhìn.

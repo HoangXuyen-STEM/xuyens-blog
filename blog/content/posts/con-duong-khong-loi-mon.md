@@ -4,13 +4,12 @@ slug: "con-duong-khong-loi-mon"
 summary: "Một người bỏ consulting để tự do — và câu hỏi 3 giờ có thể thay đổi cách bạn nhìn công việc."
 categories: ["career"]
 tags: ["pathless-path", "career-change", "self-discovery"]
-thumbnail: "/images/con-duong-khong-loi-mon.jpg"
+thumbnail: "/images/default-thumbnail.jpg"
 lenny_episode: "Paul Millerd — The Pathless Path"
 cta_type: "coffee"
-date: 2026-02-13
+date: "2026-02-13"
 status: "published"
 ---
-
 Mình sẽ mô tả một ngày trong đời người lớn "thành công":
 
 Dậy sớm. Đi làm. Về muộn. Ăn tối. Xem TV. Ngủ. Lặp lại. Cuối tháng nhận lương. Cuối năm được thưởng. Mỗi năm thêm một dòng trong CV.
@@ -86,8 +85,11 @@ Phần mình thấy powerful nhất trong podcast: khái niệm **implicit contr
 Ví dụ:
 
 - *"Mình phải làm việc từ 8h-5h."* (Ai nói vậy? Có khi nào bạn hiệu quả hơn từ 10h-3h không?)
+
 - *"Phải có mặt ở văn phòng = đang làm việc."* (Có phải bạn productive nhất ở văn phòng không?)
+
 - *"Nghỉ phép = lười."* (Hay chỉ là bạn đang recharge?)
+
 Những hợp đồng ngầm này là "ông sếp trong đầu." Bạn không ký hợp đồng thật với ai — bạn tự ký với mình. Và bạn tự phạt mình khi "vi phạm."
 
 Mình nhận ra mình có một hợp đồng ngầm cực kỳ mạnh: *"Nếu mình không bận, mình không xứng đáng."* Nó khiến mình fill lịch trình đầy ứ, nhận thêm việc, nói "có" với mọi thứ — dù mình kiệt sức.
@@ -125,4 +127,3 @@ Mình đã để cuộc đời chọn giùm suốt 20 năm. Giờ mình đang t�
 ---
 
 *Thử thí nghiệm 3 giờ của Paul: ngày mai, trong giờ làm việc, dành 1 giờ (nếu 3 giờ quá nhiều) đi bộ không mục đích. Không điện thoại. Chú ý: bạn cảm thấy gì? Tội lỗi? Tự do? Sợ hãi? Hào hứng? Câu trả lời sẽ cho bạn biết "ông sếp trong đầu" đang nói gì.* ☕
-

@@ -4,7 +4,7 @@ slug: "lop-truong-khong-phai-chuc-vu-ma-la-bai-hoc"
 summary: "Kỹ năng lãnh đạo thực sự cần có ở lớp học lẫn nơi làm việc không phải là làm đúng ngay từ đầu, mà là người đại diện dám đối mặt với thất bại và phản tư."
 categories: ["career"]
 tags: ["lãnh đạo", "học sinh", "feedback", "coaching", "phản tư"]
-thumbnail: "/images/lop-truong-khong-phai-chuc-vu-ma-la-bai-hoc.png"
+thumbnail: "/images/default-thumbnail.jpg"
 lenny_episode: "Matt Mochary — The Great CEO Within"
 cta_type: "course"
 date: "2026-04-02"

@@ -4,13 +4,12 @@ slug: "khi-thay-giao-hoa-tro-thanh-vibe-coder"
 summary: "Bạn không cần biết code để tạo sản phẩm. Bạn chỉ cần biết VẤN ĐỀ — và AI sẽ giúp bạn giải quyết nó."
 categories: ["ai-technology"]
 tags: ["ai-tools", "no-code", "domain-expert"]
-thumbnail: "/images/khi-thay-giao-hoa-tro-thanh-vibe-coder.jpg"
+thumbnail: "/images/default-thumbnail.jpg"
 lenny_episode: "Amjad Masad — Behind the product: Replit"
 cta_type: "course"
-date: 2026-03-19
+date: "2026-03-19"
 status: "published"
 ---
-
 Tuần trước, mình ngồi cà phê với một anh bạn dạy Toán. Anh ấy kể: "Tao có 20 năm kiến thức trong đầu, nhưng không biết cách đưa ra ngoài. Viết không ai đọc, quay video thì ngại, làm app thì... mày đùa tao à?"
 
 Mình cười. Vì câu đó, mình cũng từng nói y chang — cách đây đúng 2 năm.
@@ -32,9 +31,13 @@ Mình là giáo viên Hóa học. 25 năm đứng lớp ở Đắk Lắk. Mình 
 Nhưng mình đã dùng AI để:
 
 - Tạo một blog hoàn chỉnh (bạn đang đọc nó đấy)
+
 - Xây landing page cho Eakar Coffee
+
 - Viết content marketing hàng tuần
+
 - Thiết kế khóa học AI cho giáo viên
+
 Bí mật? Không phải "giỏi prompt." Mình giỏi đặt CÂU HỎI — vì 25 năm dạy học, ngày nào mình cũng phải đặt câu hỏi cho học sinh.
 
 Hóa ra kỹ năng quan trọng nhất để dùng AI không phải kỹ năng kỹ thuật. Mà là kỹ năng mà domain expert nào cũng đã có sẵn: **biết mình muốn gì, biết đâu là đúng, biết đâu là sai.**
@@ -44,9 +47,13 @@ Hóa ra kỹ năng quan trọng nhất để dùng AI không phải kỹ năng k
 Mình gọi cách làm của mình là "vibe-coding" — nghe hơi buồn cười, nhưng nó mô tả chính xác quá trình:
 
 1. **Biết mình cần gì** — không phải "làm app nào đó hay hay" mà là "mình cần trang web bán cà phê, có form đặt hàng, hiện QR thanh toán"
-2. **Nói cho AI nghe** — bằng ngôn ngữ bình thường, như nói chuyện với người đồng nghiệp
-3. **Đánh giá kết quả** — đây là lúc expertise thật sự phát huy. AI viết code, nhưng MÌN biết sản phẩm có đúng không
-4. **Lặp lại cho đến khi đúng** — kiên nhẫn, điều chỉnh, không bỏ cuộc
+
+1. **Nói cho AI nghe** — bằng ngôn ngữ bình thường, như nói chuyện với người đồng nghiệp
+
+1. **Đánh giá kết quả** — đây là lúc expertise thật sự phát huy. AI viết code, nhưng MÌN biết sản phẩm có đúng không
+
+1. **Lặp lại cho đến khi đúng** — kiên nhẫn, điều chỉnh, không bỏ cuộc
+
 Amjad hình dung rằng trong 5 năm tới, *"có người sẽ điều hành một công ty tỷ đô mà không có nhân viên nào — AI xử lý phát triển, hỗ trợ, còn bạn chỉ việc sáng tạo."*
 
 Mình không biết có đến mức đó không. Nhưng mình biết chắc một điều: một thầy giáo Hóa ở Đắk Lắk đã tạo được blog, landing page, và hệ thống bán hàng — mà không viết một dòng code. Nếu đó không phải bằng chứng, thì mình không biết gì là bằng chứng nữa.
@@ -72,7 +79,9 @@ AI không thay bạn. AI thay CÁCH bạn làm việc. Và nếu bạn là domai
 Nghe ngược đời, nhưng nghĩ thử:
 
 - Developer biết code, nhưng thường không biết vấn đề thực sự của ngành
+
 - Domain expert biết vấn đề, và giờ AI cho họ khả năng tạo giải pháp
+
 Ai có lợi thế hơn? Người biết vấn đề. Vì AI có thể viết code — nhưng AI không thể biết rằng "cái form này thiếu trường số điện thoại vì khách hàng vùng nông thôn hay gọi chứ không hay nhắn tin."
 
 Đó là loại kiến thức mà chỉ có người làm thật mới có.
@@ -84,4 +93,3 @@ Marketing giống pha cà phê. Nguyên liệu tốt + đúng cách = không c�
 Mình bắt đầu hành trình này khi đã ngoài 40. Không biết code. Không có team. Chỉ có 25 năm dạy Hóa, một cái laptop, và sự tò mò không chịu tắt.
 
 Nếu một thầy giáo Hóa ở Đắk Lắk làm được, bạn cũng làm được. Nhưng bạn phải bắt đầu. Vì bắt đầu muộn không phải vấn đề — không bắt đầu mới là vấn đề.
-

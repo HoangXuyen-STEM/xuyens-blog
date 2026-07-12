@@ -4,13 +4,12 @@ slug: "give-away-your-legos-molly-graham"
 summary: "Tại sao ôm đồm công việc lại kìm hãm sự nghiệp của bạn? Molly Graham chia sẻ triết lý 'Give Away Your Legos': Muốn xây thành phố, phải buông những viên gạch cũ."
 categories: ["career"]
 tags: ["Career Growth", "leadership", "Scaling", "Molly Graham"]
-thumbnail: "/images/give-away-your-legos-molly-graham.jpg"
+thumbnail: "/images/default-thumbnail.jpg"
 lenny_episode: "Molly Graham — Give away your legos"
 cta_type: "coffee"
-date: 2026-02-24
+date: "2026-02-24"
 status: "published"
 ---
-
 Hồi còn đi dạy, mình có một nỗi sợ kỳ quặc: **Sợ người khác dạy thay mình.**
 
 Mỗi lần có giáo sinh thực tập, mình chỉ giao cho các em ấy mấy việc vặt vãnh như chấm điểm, trông thi.
@@ -134,4 +133,3 @@ Tạm biệt và hẹn gặp lại ở series tiếp theo! (Có thể là "Thầ
 ---
 
 *(P/S: Nếu thấy series này hay, hãy share cho bạn bè nhé. Và nhớ ghé Eakar Coffee ủng hộ thầy giáo già khởi nghiệp!)*
-

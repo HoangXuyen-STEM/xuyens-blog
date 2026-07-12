@@ -4,7 +4,7 @@ slug: "ai-khong-thay-giao-vien-no-thay-cach-giao-vien-day"
 summary: "Ba mô hình ứng dụng AI trong lớp học giúp giáo viên thay đổi cách làm việc thay vì lo sợ bị thay thế."
 categories: ["ai-technology"]
 tags: ["AI", "giáo viên", "đổi mới", "Cyborg", "Centaur", "cách dạy"]
-thumbnail: "/images/ai-khong-thay-giao-vien-no-thay-cach-giao-vien-day.png"
+thumbnail: "/images/default-thumbnail.jpg"
 lenny_episode: "Howie Liu — Restructuring for AI"
 cta_type: "course"
 date: "2026-04-02"

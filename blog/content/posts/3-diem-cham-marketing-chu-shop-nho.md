@@ -4,13 +4,12 @@ slug: "3-diem-cham-marketing-chu-shop-nho"
 summary: "Truyền thông, sản phẩm, hậu mãi — ba lần khách 'gặp' bạn. Nếu không nhất quán, họ lặng lẽ đi mà không nói lý do."
 categories: ["marketing"]
 tags: ["marketing", "branding", "small-business"]
-thumbnail: "/images/3-diem-cham-marketing-chu-shop-nho.jpg"
+thumbnail: "/images/default-thumbnail.jpg"
 lenny_episode: "N/A — bài từ trải nghiệm cá nhân"
 cta_type: "course"
-date: 2026-03-21
+date: "2026-03-21"
 status: "published"
 ---
-
 Hồi mới bắt đầu bán Eakar Coffee, mình có một ý tưởng "thiên tài": thuê người viết content marketing cho ngầu. Bạn biết kết quả không? Khách hàng inbox hỏi: "Ai viết bài cho anh vậy? Đọc không giống anh chút nào."
 
 Đó là lúc mình hiểu: truyền thông mà thiếu bản sắc như cà phê pha loãng — uống được nhưng không ai nhớ.
@@ -36,8 +35,11 @@ Nhưng mình — một thầy giáo Hóa, không biết gì về marketing — p
 Ví dụ của mình:
 
 - **Truyền thông:** Blog giọng thẳng thắn, tự trào, không tô hồng — đúng như mình ngoài đời
+
 - **Sản phẩm:** Eakar Coffee — Robusta đen, không đường, không pha trộn — đơn giản như cách mình sống
+
 - **Hậu mãi:** Mình tự nhận đơn, tự đóng hàng, tự nhắn tin cảm ơn — vì mình tin rằng người thật giao tiếp thật tạo trust
+
 Khi một khách hàng đọc blog mình — rồi mua cà phê — rồi nhận được tin nhắn cảm ơn — cả ba lần họ đều gặp CÙNG MỘT người. Không có bất ngờ, không có thất vọng.
 
 ## Lỗi "nhân cách đa dạng" trong marketing
@@ -73,4 +75,3 @@ Việc cần làm? Để ba điểm chạm đều phản ánh đúng con ngườ
 Nếu bạn đang kinh doanh nhỏ — bán bánh, bán hoa, bán cà phê, hay bán kiến thức — hãy thử kiểm tra: ba điểm chạm của bạn có khớp nhau không? Nếu chưa — bắt đầu từ câu hỏi: "Mình là ai?"
 
 Mình đã bắt đầu từ câu đó. Và câu trả lời — đơn giản đến bất ngờ — giúp mình biết viết gì, bán gì, và nói chuyện với khách thế nào.
-

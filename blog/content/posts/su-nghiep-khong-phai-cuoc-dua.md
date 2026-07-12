@@ -4,13 +4,12 @@ slug: "su-nghiep-khong-phai-cuoc-dua"
 summary: "VP Product tại Meta kể chuyện về những chú chó đua — và tại sao đuổi theo thăng tiến có thể là cái bẫy."
 categories: ["career"]
 tags: ["career-growth", "long-term-thinking", "mentorship"]
-thumbnail: "/images/su-nghiep-khong-phai-cuoc-dua.jpg"
+thumbnail: "/images/default-thumbnail.jpg"
 lenny_episode: "Nikhyl Singhal — Building a Long and Meaningful Career"
 cta_type: "coffee"
-date: 2026-02-13
+date: "2026-02-13"
 status: "published"
 ---
-
 Mình sẽ kể bạn nghe về những chú chó đua.
 
 Nikhyl Singhal — VP Product tại Meta, từng là CPO tại Credit Karma, từng lãnh đạo team ở Google — mở đầu bài podcast với một câu chuyện từ thời thơ ấu:
@@ -114,4 +113,3 @@ Mình 50 tuổi, dạy học 25 năm, và mới bắt đầu viết blog. Đó l
 ---
 
 *Bạn đang đuổi theo con thỏ nào? Nó là thật hay giả? Và quan trọng hơn: nếu bạn chạm được nó ngày mai, bạn sẽ làm gì tiếp theo?* ☕
-
