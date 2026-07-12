@@ -1,18 +1,18 @@
 {{ $paginator := .Paginator }}
 {{ if gt $paginator.TotalPages 1 }}
-<nav class="pagination">
+<nav class="pagination" aria-label="Phân trang">
     {{ if $paginator.HasPrev }}
-    <a href="{{ $paginator.Prev.URL }}" class="pagination-link">&larr; Trang trước</a>
+    <a href="{{ $paginator.Prev.URL }}" class="pagination-link pagination-prev">&larr; Trang trước</a>
     {{ end }}
 
     {{ range $paginator.Pagers }}
-    <a href="{{ .URL }}" class="pagination-link {{ if eq . $paginator.PageNumber }}active{{ end }}">
+    <a href="{{ .URL }}" class="pagination-link {{ if eq .PageNumber $paginator.PageNumber }}active{{ end }}" {{ if eq .PageNumber $paginator.PageNumber }}aria-current="page"{{ end }}>
         {{ .PageNumber }}
     </a>
     {{ end }}
 
     {{ if $paginator.HasNext }}
-    <a href="{{ $paginator.Next.URL }}" class="pagination-link">Trang sau &rarr;</a>
+    <a href="{{ $paginator.Next.URL }}" class="pagination-link pagination-next">Trang sau &rarr;</a>
     {{ end }}
 </nav>
 {{ end }}

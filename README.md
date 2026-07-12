@@ -21,32 +21,38 @@ hugo new posts/ten-bai-viet.md
 
 ## 🚢 Publish production
 
-Production nên deploy qua GitHub Actions sang Cloudflare Pages, không publish tay từ local trừ khi cần khẩn cấp.
-
-### Thiết lập một lần trên GitHub
-
-Thêm 2 repository secrets trong GitHub:
-
-- `CLOUDFLARE_ACCOUNT_ID`
-- `CLOUDFLARE_API_TOKEN`
-
-API token cần quyền `Account / Cloudflare Pages / Edit`.
-
-Workflow deploy nằm ở [.github/workflows/deploy-cloudflare-pages.yml](.github/workflows/deploy-cloudflare-pages.yml).
+Repo hiện tại deploy production bằng `wrangler pages deploy`, không có GitHub Actions workflow trong repo này.
 
 ### Quy trình publish chuẩn
 
-1. Sửa nội dung trong `blog/content/...`
-2. Commit và push lên nhánh `master`
-3. GitHub Actions tự chạy Hugo và deploy `blog/public` lên Cloudflare Pages
-4. Kiểm tra production tại `https://blog.xuyenlab.com/`
+1. Sửa nội dung trong `blog/content/...` và `blog/static/images/...`
+2. Build local để chắc chắn Hugo render được
+3. Commit và push lên nhánh `master`
+4. Deploy `blog/public` lên Cloudflare Pages bằng Wrangler
+5. Verify production tại `https://blog.xuyenlab.com/`
 
 ### Lệnh publish cơ bản
 
 ```bash
-git add blog/content/duong-dan-bai-viet.md
-git commit -m "Cập nhật nội dung bài viết"
+cd blog
+hugo --minify
+cd ..
+git add blog/content/duong-dan-bai-viet.md blog/static/images/ten-anh.png
+git commit -m "feat(posts): publish new post"
 git push origin master
+wrangler pages deploy blog/public --project-name xuyens-blog --branch master
+```
+
+### Verify sau deploy
+
+```bash
+./check_live.sh <slug-1> <slug-2>
+```
+
+Hoặc verify tất cả bài mới thêm trong commit gần nhất:
+
+```bash
+./check_live.sh --commit HEAD
 ```
 
 ## Notion Pipeline Sau Khi Clone Máy Mới
@@ -89,14 +95,19 @@ python3 sync/sync_notion_to_hugo.py
 
 ### Fallback khi cần deploy gấp
 
-Nếu GitHub Actions hoặc Git integration bị lỗi, có thể deploy tay:
+Nếu cần deploy tay ngay từ local:
 
 ```bash
 cd blog
 hugo --minify
 ```
 
-Sau đó upload thư mục `blog/public` lên Cloudflare Pages bằng `Direct Upload`.
+Sau đó chạy:
+
+```bash
+cd ..
+wrangler pages deploy blog/public --project-name xuyens-blog --branch master
+```
 
 ## 🛠 Tech Stack
 - **Framework**: Hugo (Extended)

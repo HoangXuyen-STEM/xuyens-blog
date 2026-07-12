@@ -106,6 +106,10 @@ git commit -m "feat(posts): publish new posts with thumbnails"
 git push origin master
 ```
 
+Luu y quan trong:
+- `git push origin master` chi luu source len remote, khong tu dong dam bao production da cap nhat.
+- Repo hien tai khong co GitHub Actions workflow deploy. Neu khong chay Buoc 6 thi domain co the van dang phuc vu ban build cu.
+
 ### Buoc 6 - Deploy production
 Hien tai repo **khong co GitHub Actions workflow** cho deploy. Cach deploy thuc te dang dung va da xac nhan hoat dong la build Hugo roi day len Cloudflare Pages bang Wrangler.
 
@@ -120,6 +124,7 @@ wrangler pages deploy blog/public --project-name xuyens-blog --branch master
 Luu y:
 - `git push origin master` van nen thuc hien de luu lich su thay doi len remote.
 - Khong nen gia dinh push xong la production da cap nhat; can verify domain that va neu can thi chay lenh deploy tren.
+- Co the dung script verify tai root repo de check hang loat slug sau deploy.
 
 ### Buoc 7 - Verify production (bat buoc)
 Kiem tra bai len domain:
@@ -130,6 +135,18 @@ curl -I https://blog.xuyenlab.com/
 Kiem tra thumb cua tung bai:
 ```bash
 curl -sI https://blog.xuyenlab.com/images/<slug>.png
+```
+
+Hoac verify nhieu bai mot lan:
+```bash
+cd /home/hoang-xuyen/Projects/xuyens-blog
+./check_live.sh <slug-1> <slug-2> <slug-3>
+```
+
+Hoac verify tat ca bai moi trong mot commit:
+```bash
+cd /home/hoang-xuyen/Projects/xuyens-blog
+./check_live.sh --commit HEAD
 ```
 Ky vong:
 - `HTTP 200`
@@ -148,6 +165,8 @@ Ky vong:
 - [ ] Commit + push `master`
 - [ ] Deploy production bang Wrangler
 - [ ] Verify URL bai + verify thumbnail HTTP 200
+
+Neu su dung script tu dong `publish_v4.sh`, van phai doc output cuoi cung va xac nhan bang `./check_live.sh` neu can.
 
 ---
 

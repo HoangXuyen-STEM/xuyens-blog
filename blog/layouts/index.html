@@ -6,13 +6,14 @@
 
 <section class="posts-section">
     {{ $published := where .Site.RegularPages "Params.status" "published" }}
-    {{ $posts := $published.ByDate.Reverse }}
-    {{ if $posts }}
+    {{ $paginator := .Paginate ($published.ByDate.Reverse) }}
+    {{ if $paginator.Pages }}
     <div class="posts-list">
-        {{ range $posts }}
+        {{ range $paginator.Pages }}
         {{ partial "post-card.html" . }}
         {{ end }}
     </div>
+    {{ partial "pagination.html" . }}
     {{ else }}
     <p class="no-posts">Chưa có bài viết nào. Hãy quay lại sau nhé! 📝</p>
     {{ end }}
