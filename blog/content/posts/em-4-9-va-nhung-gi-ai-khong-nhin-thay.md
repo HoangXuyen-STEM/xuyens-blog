@@ -1,16 +1,15 @@
 ---
 title: "Em 4.9 — Và Những Gì AI Không Nhìn Thấy"
 slug: "em-4-9-va-nhung-gi-ai-khong-nhin-thay"
-date: "2026-08-01"
-status: "Review"
-categories: ["mindset"]
-tags: ["ai", "education", "accountability", "human-judgment", "automation"]
 summary: "Cuối năm, ngồi trước bảng điểm tổng kết, mình gần như mở AI ra hỏi cho nhẹ đầu. Rồi dừng lại — vì con số 4.9 đó không nằm trong bảng điểm. Nó nằm trong trí nhớ của mình."
-thumbnail: "/images/em-4-9-va-nhung-gi-ai-khong-nhin-thay.png"
+categories: ["mindset"]
+tags: ["AI", "education", "accountability", "human-judgment", "automation"]
+thumbnail: "/images/default-thumbnail.jpg"
 lenny_episode: "Dan Shipper — The AI paradox: More automation, more humans, more work"
 cta_type: "course"
+date: "2026-08-01"
+status: "published"
 ---
-
 ## Con Số Trên Bảng Điểm
 
 Cuối năm học, mình ngồi trước bảng điểm tổng kết. Có một em 4.9.

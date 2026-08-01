@@ -1,16 +1,15 @@
 ---
 title: "Đừng Học Công Cụ — Hãy Mang Điểm Nghẽn Đến"
 slug: "dung-hoc-cong-cu-hay-mang-diem-nghen-den"
-date: "2026-08-01"
-status: "Review"
-categories: ["ai-technology"]
-tags: ["ai", "judgment", "taste", "learning", "bottleneck"]
 summary: "Nhiều người nhắn xin học AI, hỏi xin prompt mẫu và danh sách công cụ. Câu trả lời của mình: mình không biết dạy AI cho bạn, nếu bạn không có việc gì đáng làm."
-thumbnail: "/images/dung-hoc-cong-cu-hay-mang-diem-nghen-den.png"
+categories: ["ai-technology"]
+tags: ["AI", "judgment", "taste", "learning", "bottleneck"]
+thumbnail: "/images/default-thumbnail.jpg"
 lenny_episode: "Tony Fadell — Building taste, judgment, and creativity in the AI era"
 cta_type: "course"
+date: "2026-08-01"
+status: "published"
 ---
-
 ## "Dạy Em Dùng AI Đi"
 
 "Anh ơi, dạy em dùng AI đi. Em muốn học prompt."

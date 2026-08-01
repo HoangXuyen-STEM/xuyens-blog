@@ -1,16 +1,15 @@
 ---
 title: "Giáo Viên Cần Gì Trong Thời AI — Không Phải Prompt"
 slug: "giao-vien-can-gi-trong-thoi-ai"
-date: "2026-08-01"
-status: "Review"
-categories: ["career"]
-tags: ["ai", "education", "systems-thinking", "career", "teacher"]
 summary: "Sau khóa Microsoft Educator về AI, mình rút ra: giáo viên thời AI cần systems thinking — biết nhìn bức tranh lớn của lớp học — không phải biết nhiều prompt nhất."
-thumbnail: "/images/giao-vien-can-gi-trong-thoi-ai.png"
+categories: ["career"]
+tags: ["AI", "education", "systems-thinking", "career", "teacher"]
+thumbnail: "/images/default-thumbnail.jpg"
 lenny_episode: "Elizabeth Stone (Netflix CPTO) — Why the AI era is validating Netflix's culture / Systems thinkers over specialists"
 cta_type: "course"
+date: "2026-08-01"
+status: "published"
 ---
-
 ## Tiếc Tiền Cũng Là Một Phương Pháp Sư Phạm
 
 Mình trả phí Claude hàng tháng. Tiếc tiền lắm. Nên mỗi tuần mình phải nghĩ ra việc đáng giá cho nó làm.

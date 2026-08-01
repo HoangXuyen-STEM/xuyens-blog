@@ -1,16 +1,15 @@
 ---
 title: "Prompt Hay Nhất Không Nằm Trong Bộ Sưu Tập Nào"
 slug: "prompt-hay-nhat-khong-nam-trong-bo-suu-tap"
-date: "2026-08-01"
-status: "Review"
-categories: ["framework"]
-tags: ["ai", "prompt-engineering", "craft", "teaching", "quality"]
 summary: "Mình dạy Hóa 25+ năm. Khi dùng AI soạn đề, mình phát hiện ra: prompt tốt nhất không đến từ bộ sưu tập prompt — nó đến từ việc biết học sinh mình sai ở đâu."
-thumbnail: "/images/prompt-hay-nhat-khong-nam-trong-bo-suu-tap.png"
+categories: ["framework"]
+tags: ["AI", "prompt-engineering", "craft", "teaching", "quality"]
+thumbnail: "/images/default-thumbnail.jpg"
 lenny_episode: "Dylan Field (Figma CEO) — Why AI makes design, craft, and quality the new moat for startups"
 cta_type: "course"
+date: "2026-08-01"
+status: "published"
 ---
-
 ## Câu Prompt Đầu Tiên Và 5 Câu Nhạt Toẹt
 
 "Soạn cho tôi 5 câu trắc nghiệm về tốc độ phản ứng."
