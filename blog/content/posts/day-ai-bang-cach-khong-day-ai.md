@@ -1,16 +1,15 @@
 ---
 title: "Dạy AI Bằng Cách Không Dạy AI"
 slug: "day-ai-bang-cach-khong-day-ai"
-date: "2026-08-01"
-status: "Review"
-categories: ["framework"]
-tags: ["ai", "education", "agency", "process", "students"]
 summary: "Khi con gái chuẩn bị vào đại học, mình xây chương trình AI cho con. Rồi thêm một nhóm sinh viên nữa. Chương trình đó không dạy tool, không dạy prompt — mà dạy phản xạ."
-thumbnail: "/images/day-ai-bang-cach-khong-day-ai.png"
+categories: ["framework"]
+tags: ["AI", "education", "agency", "process", "students"]
+thumbnail: "/images/default-thumbnail.jpg"
 lenny_episode: "Max Schoening (Notion) — Why cultivating agency matters more than cultivating skills in the AI era"
 cta_type: "course"
+date: "2026-08-01"
+status: "published"
 ---
-
 ## "Dạy Em Dùng ChatGPT Đi"
 
 "Thầy ơi, dạy em dùng ChatGPT đi."
@@ -26,14 +25,19 @@ Không định dạy ai khác — cho đến khi một nhóm phụ huynh và sin
 ## Chương Trình Không Có Gì Trong Đó
 
 Chương trình này không có:
+
 - Bài giảng "AI là gì?"
+
 - Bộ sưu tập prompt đỉnh
+
 - Danh sách "10 công cụ AI yêu thích của mình"
 
 Buổi đầu tiên, mình không mở ChatGPT. Mình yêu cầu mỗi bạn viết ra:
 
 1. Ngành mình sẽ học
+
 2. AI sẽ thay đổi ngành đó thế nào trong 5 năm tới — theo suy nghĩ của bạn, không phải theo Google
+
 3. Từ đó, chọn 3 chủ đề nhỏ muốn đào sâu
 
 Phần lớn bạn mất 20 phút để hoàn thành 3 điểm đó. Một số bạn mất cả buổi.
@@ -49,8 +53,11 @@ Cả chương trình chỉ xoay quanh một vòng lặp: **xác định đầu r
 Nghe đơn giản. Nhưng phần khó là bước đầu tiên: xác định đầu ra. Phần lớn người dùng AI kém không phải vì prompt kém — mà vì không biết mình muốn gì.
 
 Mỗi buổi rèn 3 thứ song song:
+
 - Viết có lập luận và giọng riêng (AI hỗ trợ, không thay thế)
+
 - Hiểu công nghệ bên dưới (không cần code, nhưng cần biết AI hoạt động thế nào để không bị mù)
+
 - Tư duy lãnh đạo: biết đích đến, biết đào tạo AI theo context của mình, biết khi nào dừng
 
 Sản phẩm không chỉ là văn bản. Có buổi mình yêu cầu làm infographic. Buổi khác làm video ngắn. Buổi khác làm mockup app nhỏ hoặc trang web đơn giản. Vì AI hiện tại không chỉ viết chữ — nó làm được nhiều thứ hơn, và người học cần trải nghiệm điều đó thật sự.

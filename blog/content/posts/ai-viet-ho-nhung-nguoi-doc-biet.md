@@ -1,16 +1,15 @@
 ---
 title: "AI Viết Hộ, Nhưng Người Đọc Biết"
 slug: "ai-viet-ho-nhung-nguoi-doc-biet"
-date: "2026-08-01"
-status: "Review"
-categories: ["ai-technology"]
-tags: ["ai", "authenticity", "content", "eakar-coffee", "writing"]
 summary: "Mình đầu tư xây skill AI viết bài chuẩn giọng Eakar Coffee. Nhưng tuần vừa rồi vẫn không đăng bài nào — không phải vì lười, mà vì bài AI viết thiếu đúng một thứ mà chỉ mình mới đặt vào được."
-thumbnail: "/images/ai-viet-ho-nhung-nguoi-doc-biet.png"
+categories: ["ai-technology"]
+tags: ["AI", "authenticity", "content", "eakar-coffee", "writing"]
+thumbnail: "/images/default-thumbnail.jpg"
 lenny_episode: "Adam Mosseri — AI is a tailwind for authenticity"
 cta_type: "coffee"
+date: "2026-08-01"
+status: "published"
 ---
-
 ## Tuần Đó, Máy Viết Hộ — Mình Vẫn Im
 
 Tuần vừa rồi, mình không đăng bài nào trên Fanpage Eakar Coffee. Máy viết hộ rồi mà. Skill AI chạy ngon lành. Vậy mà mình vẫn im.
