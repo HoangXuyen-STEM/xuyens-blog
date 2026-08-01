@@ -4,7 +4,7 @@ slug: "em-4-9-va-nhung-gi-ai-khong-nhin-thay"
 summary: "Cuối năm, ngồi trước bảng điểm tổng kết, mình gần như mở AI ra hỏi cho nhẹ đầu. Rồi dừng lại — vì con số 4.9 đó không nằm trong bảng điểm. Nó nằm trong trí nhớ của mình."
 categories: ["mindset"]
 tags: ["AI", "education", "accountability", "human-judgment", "automation"]
-thumbnail: "/images/default-thumbnail.jpg"
+thumbnail: "/images/em-4-9-va-nhung-gi-ai-khong-nhin-thay.png"
 lenny_episode: "Dan Shipper — The AI paradox: More automation, more humans, more work"
 cta_type: "course"
 date: "2026-08-01"
