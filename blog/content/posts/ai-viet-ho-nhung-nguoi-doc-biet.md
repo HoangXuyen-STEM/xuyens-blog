@@ -4,7 +4,7 @@ slug: "ai-viet-ho-nhung-nguoi-doc-biet"
 summary: "Mình đầu tư xây skill AI viết bài chuẩn giọng Eakar Coffee. Nhưng tuần vừa rồi vẫn không đăng bài nào — không phải vì lười, mà vì bài AI viết thiếu đúng một thứ mà chỉ mình mới đặt vào được."
 categories: ["ai-technology"]
 tags: ["AI", "authenticity", "content", "eakar-coffee", "writing"]
-thumbnail: "/images/ai-viet-ho-nhung-nguoi-doc-biet.png"
+thumbnail: "/images/default-thumbnail.jpg"
 lenny_episode: "Adam Mosseri — AI is a tailwind for authenticity"
 cta_type: "coffee"
 date: "2026-08-01"

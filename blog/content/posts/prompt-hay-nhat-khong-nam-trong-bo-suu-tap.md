@@ -4,7 +4,7 @@ slug: "prompt-hay-nhat-khong-nam-trong-bo-suu-tap"
 summary: "Mình dạy Hóa 25+ năm. Khi dùng AI soạn đề, mình phát hiện ra: prompt tốt nhất không đến từ bộ sưu tập prompt — nó đến từ việc biết học sinh mình sai ở đâu."
 categories: ["framework"]
 tags: ["AI", "prompt-engineering", "craft", "teaching", "quality"]
-thumbnail: "/images/prompt-hay-nhat-khong-nam-trong-bo-suu-tap.png"
+thumbnail: "/images/default-thumbnail.jpg"
 lenny_episode: "Dylan Field (Figma CEO) — Why AI makes design, craft, and quality the new moat for startups"
 cta_type: "course"
 date: "2026-08-01"

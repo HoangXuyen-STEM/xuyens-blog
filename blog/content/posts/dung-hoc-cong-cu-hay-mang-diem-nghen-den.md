@@ -4,7 +4,7 @@ slug: "dung-hoc-cong-cu-hay-mang-diem-nghen-den"
 summary: "Nhiều người nhắn xin học AI, hỏi xin prompt mẫu và danh sách công cụ. Câu trả lời của mình: mình không biết dạy AI cho bạn, nếu bạn không có việc gì đáng làm."
 categories: ["ai-technology"]
 tags: ["AI", "judgment", "taste", "learning", "bottleneck"]
-thumbnail: "/images/dung-hoc-cong-cu-hay-mang-diem-nghen-den.png"
+thumbnail: "/images/default-thumbnail.jpg"
 lenny_episode: "Tony Fadell — Building taste, judgment, and creativity in the AI era"
 cta_type: "course"
 date: "2026-08-01"

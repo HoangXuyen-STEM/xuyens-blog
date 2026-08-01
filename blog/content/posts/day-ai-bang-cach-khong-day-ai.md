@@ -4,7 +4,7 @@ slug: "day-ai-bang-cach-khong-day-ai"
 summary: "Khi con gái chuẩn bị vào đại học, mình xây chương trình AI cho con. Rồi thêm một nhóm sinh viên nữa. Chương trình đó không dạy tool, không dạy prompt — mà dạy phản xạ."
 categories: ["framework"]
 tags: ["AI", "education", "agency", "process", "students"]
-thumbnail: "/images/day-ai-bang-cach-khong-day-ai.png"
+thumbnail: "/images/default-thumbnail.jpg"
 lenny_episode: "Max Schoening (Notion) — Why cultivating agency matters more than cultivating skills in the AI era"
 cta_type: "course"
 date: "2026-08-01"

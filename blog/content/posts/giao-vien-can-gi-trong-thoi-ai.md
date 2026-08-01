@@ -4,7 +4,7 @@ slug: "giao-vien-can-gi-trong-thoi-ai"
 summary: "Sau khóa Microsoft Educator về AI, mình rút ra: giáo viên thời AI cần systems thinking — biết nhìn bức tranh lớn của lớp học — không phải biết nhiều prompt nhất."
 categories: ["career"]
 tags: ["AI", "education", "systems-thinking", "career", "teacher"]
-thumbnail: "/images/giao-vien-can-gi-trong-thoi-ai.png"
+thumbnail: "/images/default-thumbnail.jpg"
 lenny_episode: "Elizabeth Stone (Netflix CPTO) — Why the AI era is validating Netflix's culture / Systems thinkers over specialists"
 cta_type: "course"
 date: "2026-08-01"
