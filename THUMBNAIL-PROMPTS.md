@@ -139,6 +139,24 @@ Subject: A person at a crossroads — two paths in a watercolor forest. Curious,
 
 ---
 
+## 9. ClaudePrism: Khi Nhà Khoa Học Dùng AI Mà Dữ Liệu Không Cần Lên Cloud
+
+**File:** `claudeprism-viet-bao-offline.md`
+**Category:** AI & Technology
+
+```
+A minimalist watercolor illustration on off-white textured paper. 
+Loose ink linework with soft watercolor washes. 
+Color palette: navy blue (#2C3E6B), warm cream, light blue washes, warm brown accents. 
+Edges dissolve softly into the paper background. 
+Visible paper texture and subtle paint blooms. 
+Plenty of white space. Square format 1:1.
+
+Subject: A desktop computer on a wooden desk with a glowing screen showing a document editor. A soft lock icon floats beside it — the lock is open and friendly, not threatening. Scientific papers and a small flask are scattered nearby. Warm, private, productive mood.
+```
+
+---
+
 ## 8. Con Đường Không Có Lối Mòn
 
 **File:** `con-duong-khong-loi-mon.md`
